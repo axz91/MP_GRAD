@@ -1,7 +1,0 @@
-Post Title: CME credits website
-Post Content: Is there a website where you could see all the credits that you have accumulated?
-Comments: 
-CAMPEP has a CME site for all the meetings you've attended and the credits you have received from those.
-
-I also use [CME Gateway](https://www.cmegateway.org)
-	I also use CME Gateway
