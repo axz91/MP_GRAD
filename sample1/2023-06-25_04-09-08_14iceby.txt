@@ -1,0 +1,28 @@
+Post Title: Medical Physics in Asia
+Post Content: Hello all,
+
+I am about to begin studying for a master's in medical physics in Europe but ultimately hope to end up working and living in Asia. 
+
+How realistic is this? Are medical physicists in demand in Asia? What might the transfer process look like? Any experience or advice is appreciated.
+Comments: 
+Maybe a question to Your question combined with an answer. In general, if medical physicist are in demand, in Europe, if you are a physicist, you are guaranteed a job. In denmark, after doing the master, the avability the first year is under 3%. I would imagine, asia has just as many oppurtunities. 
+A question tho, in denmark, the process to become a medical physicist, is doing a bachelor in physics, or other relevant studies to fulfill the subject requirement, then you do a master, and then you take then you apply fir the Education at the hospital, so in total, 3 year BA, 2 year master, 3 year medical physicist, is it only in denmark where one have to do those 3 years, after master to become a medical physicist?
+I suspect there are probably not many people working in Asia in this sub. I am curious about the situation of medical physics in the main asian countries too: qualificatons needed, if the roles are the same as in western countries, if the machines they work with are the same or some Chinesse brands are more common, etc
+
+I suppose there must be many thousands of medical physicist in Asia, but its activity in English-speaking internet forums or listservs is rare, they must have their equivalent in its own language.
+	Elekta has a huge market share in Asia (and worldwide), but recently Varian has started to make big moves, especially in India. Halcyon has apparently been selling like hot cakes out there. Other more specialized companies like Zap and Accuray have recently moved into south/east Asia as well.
+
+China is building a huge number of proton and heavy ion facilities (mostly Hitachi, I believe, a mix of helium and carbon facilities), and IBA has made some moves in East Asia as well for proton. Singapore just started treating with their first proton machine a couple months ago. Japan has always had a huge particle therapy scene and has probably the best-organized MP requirements for clinics. 
+
+At least in the particle therapy scene, Asian (and European) countries are growing MUCH faster than the US, largely due to increasing insurance rejections for P+ here. Several proton physicists I know from the states have been consulting in Asia for their facilities. 
+
+PTCOG will be held in Singapore next year, so it will be an interesting opportunity to see the state of MP at that point. Undoubtedly the demand will shoot up with all the ongoing construction.
+You may wish to become a member of APSIG
+
+https://www.betterhealthcaretechnology.org/apsig/
+
+There are several initiatives ongoing at the moment where APSIG members are involved in Asia pacific medical physics outreach and international collaborations/networks.
+	Wow I have never heard of this organisation. This is great, thanks a lot!
+		All good. It is the charitable arm of the Australasian College of Physical Scientists and Engineers in Medicine.
+Where in Asia are you looking at? The requirements are going to look very different from country to country - e.g. you would likely need to be accredited by the Japanese Board of Medical Physicist to work clinically in Japan, whereas there is no such accreditation body in Singapore.
+	Specifically I'm interested in developing countries in South East Asia like Thailand or Vietnam

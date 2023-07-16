@@ -1,0 +1,137 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 05/16/2023
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Hi everyone, apologies if this is not the type of questions/too much for what you want on these threads! 
+
+I am based in Melbourne and nearly finished with a PhD in particle physics and am having a bit of a ~~crisis~~ think about what I want to do post PhD. As much as I love particle physics, I feel like I want to end up doing something more immediately helpful to other people, whether that is moving into renewable energy, medical physics, etc. My subfield is in detectors/instrumentation which from what I understand has some significant overlaps with some parts of the medical physics field (radiation detection etc).
+
+So I guess I am seeing if anyone has any experience in this type of career shift. If it helps too, I also have an electrical engineering degree from before my PhD.
+
+\- Has anyone here made the transition to medical physics before from particle physics? Or any experience transitioning after finishing a PhD in a non-medical field? 
+
+\- Has anyone shifted their postdoc research to something more applicable to medical physics? I am not entirely sure I want to stay in the academic system for the rest of my career but perhaps a shift in research applications could be nice!
+
+\- Am I better off looking into biomedical engineering pathways too?
+
+\- I don't know if anyone here is from Australia and has any specific advice too?  
+
+
+Again, sorry for the long post/if this too much, I am extremely appreciative of any advice or suggestions!
+	I went from Nuclear Physics (which was heavy in particle physics) to Medical Physics. I was doing a research for a project at Fermilab as a grad student and I realized that it wasn't for me. I spent 2 years in grad school for physics before making the jump though so I wasn't close to my PhD.
+
+I'm in the US, but if I were to go anywhere international, Australia would be it for Medical Physicists. In the US you can get your PhD in another field and take a 1 year certificate course in Medical Physics (from a certified University) and be eligible to take your board exams. This is a route that many people do. Some PhDs are better than others, and in my opinion, Particle Physics is about as close as you can possibly get.
+
+I would recommend following a medical physicist nearby around for a few days and learn about their job before applying. Make sure it is something you want to do. It was the right call for me personally but a few of my colleagues from the Nuclear days just weren't interested in Medical Physics as much as I was.
+		Im glad to hear you are happy with your switch! Don’t get me wrong, I still love particle physics, I just don’t think I’d be fulfilled with spending so much of my time on it in the long run.
+
+Yeah I figure I should get in contact with some people locally to chat including medical physics people in my physics school and people I know working at the local hospital and see what options there are. And the shadowing for a day sounds like a great idea! 
+
+Thanks for your response, I really appreciate it!
+Does anyone have campep grad school acceptance stats? As in how many applied for the grad program, how many were accepted, how many attended, how many of those got a residency, et cetera?
+
+I think I saw something a while ago showing just that but I can’t seem to find it now
+	[https://www.campep.org/PublicDisclosure.asp](https://www.campep.org/PublicDisclosure.asp) I wish CAMPEP would update this. Individual programs are required to publish their stats on their websites as well, so I'd look there for more recent data.
+		Shame it’s not updated, but this is exactly what I was looking for. Thank you!
+	https://www.ucd.ie/cphm/mscinmedicalphysics/campepaccreditation/
+
+This information is specific to the course I’m doing in Dublin. It’s a little bit vague but might give you an idea.
+	SDAMPP publishes [reports](https://www.sdampp.org/resources.php) that covers most of those stats although for specific institutions I think you will need to refer to that graduate program's admissions page.
+I’m about to start applying to therapy residencies for 2024 - what are the things I should be looking for when I apply to them (I have only done my masters).
+	If it helps, here is how I ranked programs. I did it based on how they scored in my priority list, which was, in descending order:
+1. Resident support from staff/overall fit
+2. Education structure
+3. Location
+4. Reputation
+5. Modalities
+6. Senior residents (whether or not I’d be happy to work with them)
+7. ABR Preparedness
+8. Overall work/life balance
+
+Of course, your list may be different from mine, and I saw that you’re an international student as well, but when I was given the opportunity to ask questions, I always made sure to ask at least one related to each of my priorities in an interview. 
+
+I also recommend attending the residency fair at AAPM if you will be there, and/or the virtual residency fair offered in early fall. Both are great ways to help programs know your name and face before applications even start, and will help you grow familiarity with programs and residency in general. Programs will write down the names of people who attend their sessions, so it’s a good foot in the door!
+Hello, I have a couple of questions.
+
+1.	⁠Do you actually need a residency? Could I be certified with work experience?
+2.	⁠Does a campep program count as professional experience?
+3.	⁠How are people matched with residency programs? I am geographically bound to South Dakota. Are these types of things factored?
+
+Thank you!
+	1) To do clinical work yes, you cannot get ABR certification without residency. Work experience would help you get a residency though. 
+
+2) The program itself, no. But if you do work, research while attending it then those counts, of course.
+
+3) Somewhat same as MDs do, but there are some off-match residencies, which are more like job positions. For the match, you apply to all places you want and then do interviews with the ones that are interested in you. After that you do a ranking process, where you rank programs on how much you want to go there. If you are geographically bound to SD it diminishes your chances by a lot, as there's probably just a couple of residencies positions there. If you want a residency, which are competitive, you might want to consider moving for a couple of years.
+What do I need to be a qualified as medical physics assistant MPA? Do I need BS physics or I need to get clinical experience?
+	I’m enrolled in a medphys MS and the hospital in at required a MS to be an MPA
+	BS is sufficient at my place, but all of our current MPAs have MS.
+	BS in Physics is all it takes where I work.
+To people that have entered clinical jobs, how much of the theory you did on your masters was useful? I’m doing some modules that I can say ‘I see where that will be useful’ but then there’s others that look like they were put in for the sake of it or to make up credits.
+	My Masters degree provided a general foundation upon which everything was built -- it was all important in that sense.
+		Thank you!
+What PhD and MS programs/departments are best for persuing diagnostic imaging? I know it is less common than therapy so I want to know what programs to look into.
+	Go to campep.org for a list of accredited programs and look at them all. They are not that many.
+
+Canadian programs are more rigorous in terms of pure physics, but Canadians are coming to the USA due to lack of positions in Canada (at least for therapy; dunno if true for diagnostic).
+
+The decision might come down to where you want to live (research the city and its politics and quality of life).
+	MD Anderson, Wisconsin, Duke are kind of the general top programs for MP but they are strong in imaging as well. Not quite sure about MS level programs that are well known for imaging.
+		I'll second this. As a therapy physicist these are the top that come to mind for Imaging.
+Would public posts (e.g. on Blogspot, Gettr, LinkedIn, Mastodon, newspaper letters to the editor, Reddit, Substack, TruthSocial, Twitter) using our real name about political or controversial topics hurt our hiring ability (for university or private practice position), for example if we disagree with LGBT philosophy, or if we promote ownership of firearms, or more generally if we disagree with any aspect of the Democratic Party platform?
+
+It appears to me that a majority of the AAPM is Democrat Party as demonstrated by the "we should boycott Texas annual meeting after Roe v Wade" posts to the AAPM bulletin board and the public statement the AAPM published to appease those people. Consequently it seems to me speaking publicly contrary to their Party positions would be detrimental to one's career, because there is a general trend of intolerance for dissent among Democrats.
+
+What are your thoughts? Do you think it is true that a majority of medical physicists frown upon those who don't agree with Democrat Party politics? Would it hurt hiring probability insofar as opposing LGBT is conflated with "opposing diversity" by HR? To what extent should we engage in public discourse anyway for the sake of arriving at what is true and beneficial for society?
+	Hurt hiring ability...Probably. In many states in the US you can be legally fired for pretty much any reason outside race, religion, or sexuality. Same goes for hiring although it's probably really hard to prove that someone was not hired for one of the three reasons above.
+
+So pretty much if you are vocal about something, and the hiring party doesn't agree, they don't have to hire you no matter how good you are at doing electron hand calcs. Is it fair? Who knows. 
+
+On the flip side, if you find that your views agree with hiring physicists they might favor that more. But if you are in the minority it would be harder to find.
+
+As to your last point, and I'm sure you may know what I'm talking about, I recall a particular meme on the meme page that may be the most downvoted MedPhysMeme  of all time. It has since been deleted by the OP (albeit recently) but it was basically opposing boycotting the AAPM in Texas by saying no physicists cared. Based off the number of upvotes (or lack thereof)  it seemed like many physicists cared (at least in the Meme Page). Now Reddit is not an accurate representation of the political spectrum of America so do not base all your decisions off of that.
+
+Also you don't have to post this question in the career thread. I'm sure more physicists will read it on the main sub.
+		Are you a moderator? I asked here because the Sidebar Rule 3 says,
+
+> 3) Questions about the field [...] or careers should be posted in the weekly thread  
+
+It does say 'should', not 'must' or 'can only' or 'shall', though. What is the justification for posting it in the 'main board'?
+			He is a mod, as am I. Rule 3 is targeted towards the very repetitive questions that we get like "how do I become a medical physicist?". More specific and/or infrequent questions about the medical physics field are welcome to be their own post. Examples include the one from a couple days ago asking about in-house imaging physicists' hours. We can clarify the wording of Rule 3 to help newer posters if the current wording is insufficient to make our intent clear. Thanks for pointing this out!
+				Thanks. Also "KERMA the frog" great name xD lol!
+Hello, I have a couple of questions.
+
+1. Do you actually need a residency? 
+Could I be certified with work experience? 
+
+2. Does a campep program count as professional experience? 
+
+3. How are people matched with residency programs? 
+I am geographically bound to South Dakota. Are these types of things factored? 
+
+Thank you!
+	\> Do you actually need a residency? Could I be certified with work experience?
+
+Requirements for taking the ABR board certification exam can be found at [https://www.theabr.org/medical-physics/initial-certification/part-1-exam/requirements-application](https://www.theabr.org/medical-physics/initial-certification/part-1-exam/requirements-application)
+
+\> How are people matched with residency programs? I am geographically bound to South Dakota. Are these types of things factored?
+
+For most programs, you go through the Medical Physics matching program, similar to how MDs get matched to residency programs.  In a nutshell:
+
+* select several residency programs you'd like to attend
+* apply
+* interview
+* rank the programs
+
+The programs you interview with will also rank the applicants they interviewed.  All of that goes into the match algorithm and theoretically each is paired with their top (or nearly top) ranked applicant/program.
+
+There are also a few residency programs that don't participate in the match program.  For those, you apply to them individually as you would with a normal job.
+
+I don't know of any residency programs in SD, but you can find the list of CAMPEP residencies at https://campep.org/campeplstres.asp

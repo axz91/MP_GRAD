@@ -1,0 +1,92 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 03/15/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Hello, I am a medical physicist from the Philippines. I had worked from a company for almost 3 years that provides quality control services for medical imaging equipment (nuclear medicine and x-ray equipment) as well as shielding consultation services. The company that I worked was an ISO Accredited body. I am hoping that these experience may be able to put me onto some leverage that I am competent in studying and working abroad. I am interested in taking up Ph.D. and, eventually, working in Canada or European countries such as Ireland. Hoping that I may get work in diagnostic MP (preferably, nuclear medicine). In line with this goal, please help me by answering the following questions:
+
+1. May I ask which schools offer the best clinical experience in Canada/Ireland for PhD in nuclear medicine? Currently, I am leaning towards McGill University in Canada or University College Dublin in Ireland. I am also weighing the possibility to repeat my MSc in NUI Galway so that I may be able to take the ABR. 
+2. Is the work, PhD, and clinical residency applications in Canada/Ireland highly competitive for international students? Do I need to attain more research experience before applying to graduate schools and work?
+3. Is there a scholarship for international students available in Canada that doesn't have a bond that I will return to my country of origin (similar to Erasmus Mundus)? I am leaning towards working and staying abroad.
+4. Are there any work opportunities for me that I can take for additional experience so that I can undergo residency in these countries?
+
+Sidenote: I am leaning towards taking PhD first so that I may acquire further competence in the country especially that the regulations and practice may be very different in other countries.Please do enlighten me. Thank you so much, in advance!
+	In Canada, as far as I am aware, the only Nuc. Med. MP training is UAlberta. There is definitely a weight overall towards Therapy. I know McGill has graduated one Imaging physicist recently, but they are a direct replacement of another imaging physicist that is nearing retirement, not a constant thing.
+Anything in Canada runs through CAMPEP http://campep.org and its requirements for MSC/certificate, and residencies.
+I completed a CAMPEP PhD and residency program... now I need to make a decision on two job offers.
+
+Work in a hospital system as a medical physicist or go to industry? 
+
+Advice? Thoughts? Having a really hard time with this decision.
+	[deleted]
+		More context:
+- I'm in the diagnostic side of MP. 
+- Both offers are from well known and respected institutions. 
+- Both teams are great!
+- Offers are competitive 
+- Industry position might be more interesting (taking R&D to consumer product) and covers two modalities 
+- Clinical position is standard diagnostic MP work without research effort
+	Pass your boards then if industry still is more appealing jump over to that.
+ABR 3 question....this may sound stupid but I can't get a good read on this: do the examiners actually ask you questions or do you read them yourself off the screen in this new Zoom version?
+
+I've heard kind of conflicting stories about this. Do you get a pop-up with 4 or 5 questions? Do the examiners interject whatever they want? Is the amount of conversation up to them and otherwise you're just answering the screen questions aloud?
+	You read them yourself, then the examiners can ask clarifying questions or additional questions, so pretty much the same as when it was in-person. 
+
+The number of questions on the screen varies some but there will be at least a couple. The examiners do interject whenever/whatever they want, and some will interject more than others. It's their job to keep you on track time-wise, so they do guide the conversation to some degree. When I took it last year, one examiner did specifically tell me to read then answer one question at a time but the rest let me do what I wanted, which was to read all the questions out loud first then start answering.
+
+Good luck on the exam!
+		Thanks a bunch for the details. It might not matter too much but I feel like it's helpful to know the true format going in. Never understood why that isn't just spelled out by the board themselves. 
+
+I was thinking it was like how you describe but then sites like ABRphysicshelp have their practice exams setup differently for some reason.
+Hey everyone, I’m just looking for some input on grad school decisions. As of right now I’ve been accepted to a PhD at Kentucky and an MS at Penn. Both don’t provide guaranteed funding/tuition waiver and with the difference in length both would be about the same cost overall. I’m kind of leaning towards UPenn right now since even with a PhD I’d most likely go clinical and they have great placement rates. And with an MS I would be able to get a job and start repaying loans 4ish years earlier than a PhD. I’m a little nervous about having to work during grad school to afford rent, groceries, etc. but again I’d rather do that for 2 years than 6. I guess I’m just looking for some people’s thoughts on the situation and my thought process. Also if anyone has experience with penn I’d love to hear about it. It seems like a great program but it’s the one where I’ve heard the least from alumni/current students. Thanks!
+	Even with PhD funding including stipend, if you're purely looking at costs, the opportunity cost of missing 3-4 years of professional salary is much more than two years cost of attendance at 2-year master's program like Penn.  Again, that's a narrow view because it kind of an apples to oranges comparison.  I'm sure PhD can be a great experience in itself and, it of course, prepares you to be an independent research scientist.  But, if you already know you want to be clinical, then maybe stick to MS.  
+
+I was sure I did not want to be a research physicist and was also attracted to Penn's match rates.  You can participate in research and clinical development projects.  There is a research thesis requirement as well.
+
+Penn's PhD program is new (at least newly independent of the bioengineering department) and they are accepting direct applications, but I believe they also accepted students with master's in MP, including current students.  I'm not sure if any current students did apply.
+
+Make sure to attend Penn's accepted student day this Saturday, in-person or virtually.  Current students and recent alumni will be there, including time without faculty present.
+
+Feel free to direct message (not direct chat, I miss those for some reason).
+	The MS at Penn is much better than the PhD at Kentucky. IMHO, you should choose Penn.
+	[deleted]
+		I’m concerned about length with regards to cost. I’d rather self fund for two than six. I’d prefer a PhD program but one that’s unfunded sounds insanely difficult to make ends meet.
+			[deleted]
+				They said funding is never guaranteed and *if* a PI has funding available you they can provide it but they really made it seem like it’s rare. I think one of the students mentioned that a recent PhD graduate had to work a part time job. I have some emails out and I’m waiting to hear back for clsrificstions
+	Why not ask to do the MS at UK if that’s a worry for you?
+		Tbh I’ve thought about that. I’m not too sure how warmly it will be received to reach out after being accepted as a PhD student and asked to get it changed to an MS. I also don’t think Kentucky’s MS is thesis based which I like about UPenn. Plus for some personal reasons Philadelphia is a bit of an easier choice logistically if the end results is a MS for both.
+	Congrats on your acceptances! Could I actually ask what your application looked like? I’m still a bit out from applying to grad school, but I’d appreciate a general idea lol
+	For what it is worth, at least when I applied Kentucky seemed to prefer to matriculate their students into their residency like LSU.
+I know a lot of the members here are active in universities and offer research internships for MS students in NY.
+
+I wanted to ask that, 1. Do you find it difficult to hire a research intern if they are international student in first year? How the CPT situation works out?
+
+2. If I would like to apply for some of the internships that you have or any other clinical position how will I apply in my first year of MS given no, Work Authorisation Permit except CPT.
+
+3. I have some offers currently. One of the program(Georgetown) is very new (accredited a year back) but has promised loads of clinical experience. Another one(Hofstra) is great in terms of residency match rates. Probably the best, given it offers only MS, which one should I take?
+Hello. So I was recently accepted to Kentucky's and Wayne State's Medical Physics MS programs and would appreciate some input choosing one based on my current circumstances and long-term goals.
+
+So far my career goal is clinical, so both excel in that regard. UK is big into brachytherapy and all the students love doing it. I would also like to help with their research into custom applicators if I were to attend. Wayne State though has access to a lot of toys including 2 proton therapy centers (albeit they are located a ways away from the campus). They both said they also offer PhD programs if research and further education interests me, but according to both funding for their programs is quite limited.
+
+My other concern is transportation. I won't have a vehicle when I go to grad school. In Lexington this isn't a concern, as I can use public transport there. Detroit on the other hand is well, Detroit. Wayne is a commuter school and apparently almost all the students drive themselves in from the suburbs.
+
+Both are excellent and highly respected programs with amazing track records, but I still don't know enough to make solid decision. So my question is: is Wayne State worth using Detroit's notorious public transportation when Kentucky is also an option? I would love hear from people that know more about both schools. I've seen a lot of people on here familiar with UK, but there's not as much on here regarding Wayne.
+
+(Edited: Did further research and condensed it for ease of reading)
+Hi everyone - I am really interested in doing a masters in medical physics and I really want to shadow a medical physicist! I have a Bachelor’s Degree and a Master’s Degree in Nuclear Physics, and have been interested in pursuing a masters in medical physics, and before I go that route, I'd like to get some shadowing experience to help with my application. Where can I find shadowing opportunities in Oregon? Thank you in advance for any connections, advice, or opportunities you can offer.
+	Northwest Medical Physics Center (Lynwood, WA) has done paid summer internships in the past. Recently, Covid has thrown a wrench in that but you might look into if that is an option for you this summer.
+		Thank you!!
+	I've met some nice physicists (virtually) at OHSU and they seem to be very dedicated to educating future physicists.  You may want to try them!
+Does anyone have any input on the feasibility of a "hybrid" option for the certificate option for people who already have a PhD? As the ideal example, completing coursework remotely and only going to the campus as necessary for exams, training, etc? There is a program a few hours from where I live and I have been mulling the idea of working on those courses while I finish my PhD . That is in advance!
+I applied to a couple MedPhys programs for a PhD and didn't get accepted to any. Now I'm scrambling to figure out where to go and what to do to get some more research experience and apply again next year. Any tips on 1 year companies/paths that may be good experience before applying to grad school again?
+	Hi, I sadly can’t give any advice, as I’m only an undergrad myself, but I could I ask what your resume looked like, and which programs you applied to? And did you only apply to PhD or to masters as well?
+I am international student in the US and I got into an accredited MS program (with v good residency stats and clinical experience). Is it harder for international students to match with residencies given that they need to be on OPT status? Or do most residencies accept OPT?
+	You should be fine! Your list of places that you can apply to will shrink a bit from places that fon't take opt, but pretty much all universities take it. When I went through the process (imaging track) i coukd apply to 15 out of around 23 schools/compabies that took MS students. Companies can provide H1B visas, and universities too. Most Uni just have you on OPT as H1B can cost a bit of monry, but there was a couple of places that said they woukd sponsor just in case. With OPT just bear in mind the start date and make sure to apply early so you won't have an issue
+Any one know how good KUMC residency is, I have read in Reddit that it wasn’t very residency friendly back in 2019 , is it still like that. It’s also how good its reputation for residency training ?
+Anyone know general timeline for when UNLV males decisions for their DMP program?

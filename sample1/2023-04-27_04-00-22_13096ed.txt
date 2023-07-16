@@ -1,0 +1,39 @@
+Post Title: Is a four-year training period too long?
+Post Content: Considering that it takes most clinical facilities over 6 months to fill vacancies, I am questioning if the current 4-year training (2 years of master's and 2 years of residency) is too lengthy. Perhaps an integrated curriculum with practical training over a period of 3 years would be a better alternative. It's worth noting that some medical schools now provide a 3-year MD program.
+
+&#x200B;
+
+&#x200B;
+
+https://preview.redd.it/l6cjx74iocwa1.png?width=567&format=png&auto=webp&s=0defa8b972ff1b7ee7f10c44fc5ee6be978a70ef
+Comments: 
+why do you think the training time has anything to do with the amount of time to fill gaps in current hiring? if training takes 1 years or 10 years it doesn’t matter in the slightest. they have no relationship to one another. if the rate of new board eligible physicists getting pumped in to the field is equal to the number of positions opening to fill demand, that’s all that matters. at best a shorter training time will fix short term problems. 
+
+additionally, i’m so much less concerned with length of time in residency than i am focusing on standardizing the quality differences from residency to residency.
+	I'm curious what kinds of quality differences and from what perspective you're seeing them.
+What would most benefit the patients you'll eventually be responsible for?
+Honestly, I think it is good. You get out of grad school, no experience or a few months experience and then get two years to become clinical. There is a lack of physicists but you want good physicists, not just bodies. 
+
+I graduated from a program that prided itself in its clinical rotation in grad school. Before residencies were a thing, people would graduate from this program to become full-time physicists. I got out and knew how to run QAs, machine QA and plan, but it was not until I hit residency when I truly understood what I was actually doing.
+In germany we have a project run by two universitys, Tübingen and Dresden, where the residency can be done parallel to the master degree, cutting the training period half, at the cost of spending every hour of free time into the residency.
+The students are allocated to the biggest surrounding clinics in groups of two to four, mentored by the clinic physicists over the course of two years and do rotations to other clinics for example for the nuclear medicine residancy if the clinic has no adequate infrastructure in nucl.med.
+I’m too young to really know what the process was like prior to the three exam CAMPEP/ABR process, but it does feel unnecessary to me. I personally think residency should be reduced to a year. Either part 1 or 2 should also die, and part 3 should hone in heavily on matters that are directly associated with the average physicist’s day to day practice.
+	Residency is only barely enough training in my opinion. Residents typically only have it all ‘come together’ around the middle of the second year. I think it could be three years, two years is OK, one year could never be enough time. If it were integrated with a masters, I’m not sure. I’m curious if any DMP grads think the program could have been 3 years.
+
+The three part tests help by weeding people out in addition to helping ensure a good baseline for knowledge. Part one is mostly a weed out tbh.
+
+We should not lower the bar to meet a need for physicists, instead of there is truly a staffing crisis we could do a better job of recruiting people into this field and open more residency programs.
+		Exactly the current requirements were set up to create barriers to entry into the field. They are working as intended. 
+
+Not all residencies are equal. Our new hires from residency programs still need training. For example most of them can regurgitate TG-51 but they don't fully understand the process. We see wild differences in treatment planning experience that we have to provide remedial training for etc.
+			This 💯 - "They are working as intended"
+
+Of course, there may be some unintended consequences, i.e. more medical physics assistants and less (new) board certified positions (balancing the current supply/demand challenge)
+		My part 1 was just being able to solve 80 different questions boiling down to Y=Y0e^-^a^x and no one who’d completed a masters legitimately failed it by any stretch of the imagination. My part 3 had three questions about TBI, two about ortho, two questions about contours a physicist would never be expected to draw, a question about PET where someone who knows less about PET than I do was factually incorrect with their follow up questions and two questions about brachy applicators I have never met users of despite working and consulting in clinics in a major city. 
+
+Our current pipeline isn’t doing anything other than artificially constraining physicists with jeopardy styled exams that don’t reflect that huge majority of our clinical practice, which is how part 1 sounds now every year as well, and most people’s residencies seem to just be them shooting PSQA for two years. We’d be better off with on the job training in my opinion. Maybe I’m a bit off base because I was exposed to the field kind of early and also had a great residency program, but I don’t really feel like the ABR hoops I jumped through made me any better of a clinical physicist than a copy of Khan and a year on the job would have.
+	1 year would be ridiculously short for residency.  I think 2 years is currently too short. The physician specialties we work with - rad onc, neurosurgery, surgeons, etc. all graduate and are 100% independent, managing patients 100% on their own.  2 year medical physics residency graduates (in my experience), still need post-residency time to gain enough experience to handle more complicated scenarios on their own.  Board-certified should mean you're 100% independent, and I'm not sure it currently means that.
+
+I think a lot of this is just seasoning and exposure - how often does a linac target fail, or a linac get replaced, or shielding calcs get done?  How many SBRT reirradiations or total cranial spinal, or TBI or total skin irradiation or intraoperative HDR treatments or whatever type of brachy treatments get done in a year?  How many reportable radiation safety incidents are there in a year, or how many mis-administrations or near-misses are there in a year?  Hopefully the last few items are rare.  Exposure to these things just come from being around the clinic A LOT.
+
+I'm honestly not too concerned with exams and exam results.  Maybe a bit of a hot-take here, but if I had to choose, I think I'd be much more comfortable being treated by someone who had spent 3 years doing a residency at a very reputable place like WashU, Wisconsin, MD Anderson, etc. etc. and had "graduated" from that program but had failed their final board exam, than I would be comfortable being treated by someone who had spent a single year at a low-volume centre but had passed their exam.

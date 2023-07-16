@@ -1,0 +1,66 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 11/29/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+So I'm currently doing a masters med phys program and just finished the first semester. And I'd like to know if doing presentations, which accounts for 40 or 50% of module grade prevalent in most masters?
+	It really is up to the professor how they prefer to evaluate. A few I experienced in my program: two exams per semester + participation, no exams + several project-sized practical homeworks + final project, standard 4 exams + regular homeworks + group presentation.
+
+Ultimately presentations are an extremely useful thing to be good at. You learn to express complex ideas in digestible pieces to a broad audience, ideally. Also, currently in my residency, while I am not graded on presentations, they do form a significant portion of my program. I have a 45min long presentation in front of my co-residents and program directors roughly every 4 weeks on relevant topics, plus an hour long presentation for the whole physics department of recent scientific literature that they might be interested in. It can be a lot, but it certainly develops key skills we need to excel as physicists in a clinic.
+	You will likely be presenting in some fashion your whole career as a medical physicist.
+	12 Weeks 12 Tests(Each Week) 12 HWs 2 coding assignment 2 Exam(Midterm + Final) 12 Reports(TGs) 1200 pages of reading plus 20 hours spent in clinic every week.
+
+Multiply all that by 4 (Number of Courses in 1st sem)
+[deleted]
+	That should be fine. Undergrad research that's strictly medical physics might be kind of uncommon to be honest. I certainly didn't have any labs at my undergrad that I could have joined.
+	Have you tried shadowing any medical physicists at an academic institution nearby? They may have some insight.
+Where can I get good sources or books about interaction of radiation with matter and Radiation Dosimetry?
+	Attix is the classic book on this.
+Reposting here, should have posted here before
+
+Hi physicists! Do you think MPA is more advantageous when it comes to application for residency? (I work in Asia)
+
+I recently got an offer for the post of oncology technician. It is a new post in their department, so I believe the duties are like that of MPA.
+
+I am currently working as a FSE. If I’m switching to the technician post, I would be taking a salary cut (like a 10% drop). It is really puzzling and I cannot make a decision.
+
+Thank you in advance all irradiators!
+	When I'm evaluating for residency and I see the candidate has worked as an MPA, I typically assume they have a good idea of what it's like to be a medical physicist so in turn they will continue to try their best to finish residency and become board certified (in the US). Now they still have to have other good things on their residency too, but it eliminates most doubts that they will not have their heart set on medical physics
+		Thank you nutrap! I actually had some shadowing experience so I have a brief understanding about their daily work. Anyway I decided to turn down the offer!
+Would look for residency position instead.
+	I don't know how things are in Asia but to my knowledge having MPA experience helps with residency generally. I can't comment on the relative weight of each experience since I've never been an FSE.
+		Thank you for your reply kermathefrog!
+Generally, do you recommend medical physics as a good career path? Are there residencies, jobs? Im in the metro Detroit thanks
+Hello, I am new to this sub. 24 years old, just finished 6 years in the Navy as a nuclear reactor operator, starting BS in physics in January 23. 
+
+I am considering MS in medical physics (I know, it's pretty early), but have concerns about residency programs that I'm having difficulty finding results on google.
+
+Is there still a mass shortage of residency programs compared to recent graduates?
+
+As someone with scientific operations experience, does that put me in a better spot when applying for residency programs?
+	It's certainly a lot better than 2015. I think that the experience will help with your application somewhat but I think what you do during grad school will be more impactful by a lot.
+	If you are considering an MS only and not a PhD try applying to grad schools known for their clinical medical physics programs. I started Medical Physics MS program at 27 and ended up matching to my first choice (although I may not have been my program's first choice). 
+
+As an evaluator of residency candidates I do put Navy Nucs in high regard for an initial interview which is 75% of the battle. If you get a bunch of interviews then you'll likely get a residency. The numbers for the Match are low (like 60%), but the number of applicants that have no business applying is IMO 20%. 
+
+Last word of advice, shadow medical physicists before applying to grad school. Make sure you actually enjoy the field. Plus they'll give you insights into which schools are good and may write you a letter of recommendation.
+		Interesting point about the large of amount of unqualified candidates. Is this mainly people who are quite literally currently ineligible for the ABR certification pathway and such?
+			Some ineligible. Some that have a PhD or masters in another field then do a 1 year certificate program but have no idea about the field or did absolutely nothing related to medical physics outside the classes required for the certificate.
+
+I'm a little biased against the certificate programs but they can be useful if they go into the clinic and learn about the career they are applying for.
+	The MedPhys Match publishes statistics regarding match rates every year:
+
+https://natmatch.com/medphys/statistics.html
+
+The match rate has seemed to plateau around 60% over the last few years. Depending on who you ask, the percentage of 'acceptable applicants' who match is a more realistic expectation of matching rates for a typical graduate from a CAMPEP program, which improves that percentage considerably.
+
+Whether those rates will improve in the future is, unfortunately, hard to predict. I'm also not sure there's a consensus on whether there needs to be more accredited residencies or less matriculating graduate students. Given that, anecdotally, I've heard the job market seems to be an applicants market at the moment (at least on the therapy side) I would put my money on the former.
+
+I will say this as an individual with a similar background to you. With a BS in physics (not a BSNET), your relevant work experience from the nuke field, and if you graduate from a clinically oriented masters program with decent matching rates, I think you would be a very competitive candidate. If you publish or have research experience in your application, I would be surprised if you didn't match, assuming at least average LoR's, CV, interviews, etc.
+		Thanks for the reply! Very helpful. Also, glad to hear you didn't go for the BSNET. Too many nukes take that route because they give you so many credits right away, but end up very limited career-wise.

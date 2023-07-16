@@ -1,0 +1,116 @@
+Post Title: Why Canadian Medical Physicists are moving to the US?
+Post Content: Edit1: Added “Show results” in the options
+
+[View Poll](https://www.reddit.com/poll/131q7bb)
+Comments: 
+It's housing (and other cost of living increases). Salary has always been much better in the US than in Canada, but the exodus is new.
+Canadian who moved to the US here. While in grad school, my intent was to remain in Canada. But, after not matching to any of the 3 Canadian residency positions that were available at the time, I decided to look for postdoc positions outside of Canada to boost my CV. I ended up in the US for a post doc, then also for residency, and I've been in the US ever since. Now, nearly 4 years out of residency, my US salary is higher than the 30-year experience salaries in Canada. Currently working on getting a green card.  
+
+
+A big factor, IMO, is that Canadian grad schools were producing far more high quality candidates than there were jobs for them in Canada. So, after all of the Canadian positions fill, unemployed graduates have to look outside of Canada for work. Not just in the US. I also considered work in Australia, New Zealand, the UK, Finland, Switzerland, France, and South Africa.  But, the US job market is by far the easiest place to find work.
+	I think that was true when you graduated, but right now there is actually an exodus of people leaving Canadian jobs and moving to the US, leaving unfilled positions behind.
+
+When Vancouver was hiring for two positions about 6 months ago, for instance, I'm told they filled only one. Unheard of in my (and your) time.
+		For sure. Vancouver was high on a lot of people's lists back in the day. Interesting.
+Are Canadian medical physicists moving to the US in greater numbers than before? I know some who have moved recently, but I don't know if they represent a larger than average number.
+	When I finished my residency, you were lucky if there were more than one job on the canadian job board at any one time. If you go to [https://comp-ocpm.ca/english/career-centre](https://comp-ocpm.ca/english/career-centre) you will find right now 11 jobs. And I know for a fact that they're still hiring in Vancouver and Calgary (4-5 positions I think in Calgary), those postings have just lapsed without suitable candidates. As well as places in Quebec which don't advertise on there.
+
+Calgary made the [news](https://www.cbc.ca/news/canada/calgary/alberta-cancer-treatments-exodus-radiology-staff-1.6397794?fbclid=IwAR3qKeTK9qUJb8maOv5suxqLwo7PA25w3SxMuLwL0xLH6FEl0YbAO3JTArI)\- basically, they were building a new center, needed to hire something like 10 new physicists (5 permanently, 5 temporarily), managed to only hire 5 recent graduates, but then lost 6 of their most experienced physicists, including the chief. Out of those, 5 are now working for US employers. The center went about a year and a half without a chief, but managed to hire one recently. That will create yet another job that has to be filled where they're coming from.
+
+It's uh. Not great.
+		Am I allowed to ask what is wrong with MP in Canada? Are salaries really so low that it forces people to migrate? Or is it just too easy to find a job in the US with better conditions so it's pointless to work in Canada?
+			>Are salaries really so low that it forces people to migrate? Or is it just too easy to find a job in the US with better conditions so it's pointless to work in Canada?
+
+Yes and yes. 
+
+Well, yes salaries are so much lower. Yes it's extremely easy to find a job in the US with much better pay.
+
+But like I said in another comment, until recently people by and large still stayed in Canada. Canada gave most people more vacation time, more normal hours (9-5, working evening or weekends banked time for more time off, pension plan, etc...), expected less of them. Most Canadian centers have physics assistants who do all the monthly and even annual QA. Certainly a physicist in Canada seldom has to do patient-specific QA. Some people wanted to get paid more, and moved to the US for that reason. But the majority wanted to stay behind. Particularly because it was thought that education, healthcare, etc... was more affordable and better in Canada. Lack of maternity leave in the US is a big sticking point, for instance. Worries about crimes, politics, etc... were all reasons people never even considered moving to the US.
+
+That has changed a lot recently. The salaries haven't budged. They're the same as before. But the cost of living has skyrocketed - much worse than in the US.
+
+A Canadian grad can expect to start at around ~120K and top out at ~160-180K CAD, depending on their province. In Quebec, that're more along the lines of 90-120K CAD. In the US, my program hires new residents at around 170K USD. I made more than the top paid physicists in Canada after 3-4 years of experience.
+
+Add to that the exchange rate (about ~135%), less taxes (your mileage may vary), and much cheaper housing (again - but the average over the whole country is around ~450K USD in the US and ~700K CAD in Canada), and it's not hard to see why new grads are much more interested in the US these days.
+				Thank you for such a detailed response!
+But let me clarify two things.
+1. You've started from the description of  Canada's positive sides, like education, social features, politics , crime rate, etc. But then you've said "that has changed a lot". Everything or only the salary gap has appeared to be unacceptable?
+2. Sorry guys, I'm not from your part of the world, but the internet says that the average salary in Vancouver is around 60k CAD. In one of the most (or just the most) expensive city in Canada. As you said, residents start with a double of that sum. Is it really still bad?
+					>1.	⁠You've started from the description of  Canada's positive sides, like education, social features, politics , crime rate, etc. But then you've said "that has changed a lot". Everything or only the salary gap has appeared to be unacceptable?
+
+The healthcare is not doing great. Nurses have been leaving the profession en-masse, mostly for private staffing positions or to go to the US. Wait times for family doctors are increasing in many provinces, often to 3-4 years.
+
+Other aspects are still good - but it’s just increasingly seen as not worth it, it appears. 
+
+>2.	⁠Sorry guys, I'm not from your part of the world, but the internet says that the average salary in Vancouver is around 60k CAD. In one of the most (or just the most) expensive city in Canada. As you said, residents start with a double of that sum. Is it really still bad?
+
+It’s true, physics continues to be one of the best paid professions in Canada. We do better than most. If a physicist has trouble, what hope is there for people with regular jobs?
+
+But the rent for a small one bedroom apartment starts at around 2500$ a month. That’s 30 000$ a year. And I said starts - if you have a spouse, or a kid, you’re not getting away without paying more than 4000$ a month for a two bedroom apartment. The people making 60K are having a rough time. The people making minimum wage, I don’t want to think about it.
+
+And if you want to buy, because rents will keep going up? You’re looking at 1-1.5+ million dollars. You’re never affording that on a physicist salary.
+
+Why do that when you can double your income and half your expenses in the US.
+					Like, this is topical. Threads like [these](https://www.reddit.com/r/canadahousing/comments/132k4md/lost_with_135k_salary_120k_downpayment/) are common.
+
+What’s the top comment? “Move south of the border”.
+			If I had to guess, it's that most cancer centres (and therefore most clinical medical physicist positions) are in larger cities, where housing costs are quite high.
+		I did know about the losses in Calgary, but not where they all went. Thanks :)
+Really interested in this topic as I am a Canadian studying for a PhD in the US right now. Based on what I've seen so far, I would like to go back to Canada. 
+
+Housing does seem like a big bummer that would basically prevent me from taking jobs in Vancouver, Toronto, maybe a few other places. And I know it's a big pay cut to work in Canada. At some point though I feel there's things money can't buy. 
+
+Does anyone have input on finding Canadian residencies as a US graduate (with a Canadian bachelor's and citizenship?) I read on a previous thread that it's highly advantageous to get a residency where you want to eventually work? Your general comments on DABR vs MCCPM, industry jobs in Canada, or anything else would be really appreciated!
+	>Does anyone have input on finding Canadian residencies as a US graduate (with a Canadian bachelor's and citizenship?) I read on a previous thread that it's highly advantageous to get a residency where you want to eventually work? Your general comments on DABR vs MCCPM, industry jobs in Canada, or anything else would be really appreciated!
+
+I'm a Canadian graduate who did grad school + residency in Canada and now work in the US where there is a residency program.
+
+I'll break it down point by point.
+
+>Does anyone have input on finding Canadian residencies as a US graduate (with a Canadian bachelor's and citizenship?)
+
+Work authorization/visas is a much bigger hurdle for Canada than the US. Most Canadian residencies won't bother with anyone who doesn't already have a work visa. 
+
+You'll be OK, as you are a citizen. Your CAMPEP-accredited education will most likely be ok as well. You'll want to have some clinical experience and publications. Canada graduates too many students, so the successful Canadian residents these days are PhDs with multiple publications, clinical experience, and some awards. You can't be merely average. Unless you're the local guy/gal.
+
+>I read on a previous thread that it's highly advantageous to get a residency where you want to eventually work? 
+
+In the past Canada was very incestuous. Programs mostly hire their own graduate students, probably at a rate of 50%. Yes, it is a bigger hurdle. But it is what it is - too late to switch programs now.
+
+Some programs engage in the match (BC, Calgary, Toronto),  and others do not. Certainly participate in the match - that will be your best chance. Non-match positions will be posted on the COMP job website. 
+There is a list of programs on CAMPEP - they include BC, Calgary, Edmonton, Winnipeg, a bunch in Ontario, McGill, and Halifax. 
+
+McGill and Quebec do not advertise positions nationally and hire only people they know. The way it works is you are hired permanently as a physicist, but spend the first two years being paid as a resident, doing a remote residency with McGill. You'd need to know French for any of the clinics except McGill and Jewish, anyway.
+
+If you become a COMP member, you will get an e-mail when a new residency position is advertised, especially non-match positions. However, since the e-mail and the posting are separate costs to the hospital, it's not a guarantee. A student membership is 50$ a year, so there's no reason not to.
+
+I would suggest you make the effort to present at COMP so that you can meet Canadian residency directors and get known. It is generally easier to land an oral presentation in the young investigator's competition at COMP, and it's a nicer conference than AAPM anyway (but then I think big conferences are a huge waste of time). 
+
+>Your general comments on DABR vs MCCPM
+
+Officially, DABR and MCCPM are completely interchangeable.
+
+In practice, not every US employer knows this. I did both.
+
+The written MCCPM exam is harder. The oral DABR exam is harder. DABR is a much bigger hassle to maintain - it's 200$ every year, and fewer things count for credit.
+
+You will need to fly back to Canada and find a preceptor to do the written exam exam, even if there is a MCCPM member willing to do it in the US, it has to happen in Canada. Oral exam is always in Toronto, I think. Used to be Montreal, but it changed.
+
+>, industry jobs in Canada, or anything else would be really appreciated!
+
+Most industry jobs I am aware of in Canada are startups, or working for Varian/Elekta. The nice thing about working for Varian is you get paid in US dollars. Two of the people who left the Tom Baker Cancer Center in Calgary was to work for Varian. They still live in Calgary, but now they make much more money.
+
+Seems to be a combination of work from home and travel. Mostly teaching other physicists, working in R&D, etc... so it's something that they want people with clinical experience for. 
+
+But then I only know that many people working in industry, and most of them work for Varian. 
+
+Hope this helps!
+		Super helpful info.
+
+> Oral exam is always in Toronto, I think. Used to be Montreal, but it changed.
+
+FYI it's in Montreal this year.
+			Huh. Good to know.
+IMO, For someone who is fresh out of residency and starting their career or someone who hasn't bought real estate in big cities in Canada at least 10 years ago are having hard time even with relatively revised salaries.
+What are American pensions plans and other benefits like? Legitimately curious as a Quebecer. Everyone knows the major pay difference is real, but knowing I can do my work until 60 and get ~70% of my salary until death is pretty neat, combined with our medicare and other programs.
+	Most places don't have a pension. Some state hospitals (like a state university hospital) will have pensions. Most have a retirement plan where you contribute some and the employer matches it up to like 5-11% of your salary, depending on employer. So if I contribute say $20k of a $200k salary, and my employer has a 10% match, the employer puts another $20k in my account. So, $40k total. You can then invest that money and there are big tax benefits for these retirement accounts. It's much easier to fuck up than a pension but you can also do a lot better than a pension will provide if you're smart about it.

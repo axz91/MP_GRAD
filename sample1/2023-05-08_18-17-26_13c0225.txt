@@ -1,0 +1,51 @@
+Post Title: Medical Physics Assistants / Junior Physicists
+Post Content: Lately, at least in therapy, there's has been more physics positions open than people to fill them. (See [here](https://www.reddit.com/r/MedicalPhysics/comments/12ynx6s/how_long_is_it_taking_your_clinic_to_fill/), and discussions on the MedPhys Listserve). It seems some centers are starting to hire medical physics assistants (MPA's) to help fill some of this gap.
+
+I'd be interested in hearing comments from any smaller clinics (<4 physicists) who have opted to hire MPA's. How has it worked out? What kind of work are you giving them and allowing them to do? What type of a person do you look for? What typical salaries are MPA's seeing? Anything a clinic should be aware of before going down the path of hiring one?
+
+Edit: I'm aware of MPPG 7.a, but what does this look like in actual practice?
+Comments: 
+Our Physics group hired a couple MPAs about 2 years ago. We cover multiple clinics and assigned each MPA to 2-3 clinics. We have them do patient QA and Monthly QA(everything but outputs). Each MPA handles between 6-10 linacs and also helps with other annuals and projects. They aren't as useful for patient QA given their multi-clinic assignments.
+
+I think mppg 7a said the staffing for an MPA should be 0.25 per 1.0 FTE physicist. I think it would be more like half that. I just don't have that much to give them outside of routine QA. It's not like they can check a plan, or weekly. They just aren't that useful outside of routine QA.
+
+Now if you can't hire a partial FTE physicist, and you're drowning in QA, maybe it might be worth it. But I wouldn't consider them a fractional physicist equivalent given their limited capabilities.
+
+Edit: Our MPAs only have undergrad degrees. Not MS. Just to clarify.
+	MPA’s can’t do weeklies? I know a lot of places where dosimetrists and residents do them.
+		Residents, sure. Dosimetrists? Charging a continuing medical physics consultation? Not where I've worked. Our MPAs are also BS physics grads. Not MS.
+			I know a couple of places where this is the case. 
+
+Seems everywhere around me has its one or two things that are glaringly not up to code but accreditors ignore.
+
+My buddy’s clinic doesn’t do MU checks. He’s never heard a word from anyone. Same guy audits us and complained that our MU check tolerances were too loose.
+				[deleted]
+					Yes, including mine.
+		Our MPA does weekly checks. He creates the document for the weekly and a QMP approves it.
+			I guess that at least gets the physicist's name on it.
+Personally, I would resist hiring an MPA. While they might provide some relief, I still have to be on site for special procedures like HDR. They can’t perform absolute dosimetry without me. And I wouldn’t allow them to do chart checks. Once the hospital gets to pay someone a fraction of what they would a real physicist and things get done they would never hire one to replace the MPA. 
+
+BTW: I’m a Chief Physicist w board certification and have had a position open for over a year.
+	I have been wrestling with this idea of having someone paid at a fraction of a certified physicist. I think you’re right about administration not wanting to replace an MPA with a certified physicist. The other side of that coin though is that (I assume) you’re currently getting all of the work done without the MPA and without the additional certified physicist (and for an extended period of time). Don’t you think administrators might look at your FTE numbers and ask why you even need an MPA if you can get the work done without the additional physicist?
+		Yes. But I’m not doing this forever. Fortunately, our patient load is down right now so what needs to be done can. It’s simply a fact of life that there will be times when you have to suck it up and work a little harder and/or longer. And I’m willing to. However, there is a limit to how much and for how long. That amount is also directly related to how well I’m being treated by hospital leadership.
+			All good points!
+Diagnostic here. We have MPAs (we call them something else). They do our gen rad and fluoro. Our geographic footprint is enormous. Allegedly our Healthcare system covers 250,000 square miles. No way we could test everything without them. We still test some gen rad and fluoro, but are tied up doing the advanced modalities. They do QI projects and work with us on image quality stuff. Just be aware what they can and can't do, where you're allowed to delegate/designate and you're good. Set a reasonable expectation.
+I worked at a 3 FTE site and we were operating at 1.5 FTE. My MPA was amazing. He did all the VMAT QA, all the monthlies except outputs, called service and kept the logs, kept track of equipment/meters, I sent him onto the roof for surveys. In return he got a ton of valuable experience and ended up going back to school. I think a typical going rate is 0.6-0.7 of what you would offer a DABR physicist. State regs and ACR/Apex could limit you in what you can assign them if they aren’t on the ABR pathway so definitely look into that
+	With the salary increases for DABR physicists, are you really offering MPA’s over 6-figures? That seems wild to me. 
+ 
+I can’t imagine being a physics resident working alongside an MPA doing the same QA duties, often supervising/training MPA’s, and making half as much…
+		An MPA I met during residency interviews was earning ~$100k at the time. It's kind of depressing as a resident knowing that centers can clearly afford to pay residents significantly more based on the value they extract but just... don't lol. I'm sure it's more of an admin decision and taking advantage of the "resident" paradigm, but yeah. At least I know it's temporary.
+			The end game will always be taking advantage. This entire thread is literally certified physicists damaging their own profession and agreeing with administration that it's better to offload the work others, than to invest in residency education. You have to wonder what these people are doing all day if the junior is doing all the machine QA, patient QA, Chart Check, maintenance/service, projects, etc. Make them do plans too, and eventually have them do output. Why not just have MPA only clinics and have one remote physicist sign papers all day for multiple clinics. Also I've never seen these lesser titles pay over $100,000, typically wages are $50-$90k
+				Well, not everyone. 
+
+Also, if you don’t understand what a Chief might be doing since they have “offloaded” work to others then you’re not paying attention. I’m the RSO, I review plans and checks of a staff physicist, I answer questions and deal with issues, write programs to help solve problems, work on the QA program, learn about new techniques etc. Don’t be “that” guy who says chiefs don’t do anything. That’s an ignorant comment.
+	Our MPA does all of those things. He also does outputs at a few of our sites. These are supervised by DABR physicists, but we put a lot of trust into his skillset. Truly a huge help.
+
+We’re a group of 4 physicists covering 5 sites with 6 linacs, so his taking the low hanging fruit really helps the rest of physics work on more productive issues and projects.
+Our system has 5 MPAs spread across 3 clinics. One clinic (call it A) has 6 linacs and 2 MPAs, another (call it B) has 2 machines and 2 MPAs, and the third (call it C) has 1 machine and 1 MPA. Overall there are ~25 medical physicists involved in clinical operations.
+
+I can speak for clinic A, as I work there, but I’m afraid I don’t know much about what the MPAs in B and C do. Our 2 MPAs actually recently made a list of their routine duties, because we’re re-evaluating the role group for the first time in many years.
+
+They support about 15 of our physicists and do all the patient-specific QA, a bulk of monthly QA, 4DCT sorting for 2 busy CT simulators; they help with annuals, commissioning new linacs, and re-calibrating detectors; they coordinate device replacements as well as PMI visits with vendors, and generally maintain and organize our large physics inventory; they work with the RSO to distribute dosimeter badges for physicists/physicians/therapists/dosimetrists; they have a significant role in training residents on QA procedures, and often do various demos for students; and they also participate in research here and there, on their initiative. In addition to residents, they are our go-to people for miscellaneous tasks and information. You’d be surprised at how large of a role they play in the operation of the clinic.
+
+Moreover, they are all concurrently in CAMPEP-accredited grad programs. They make compromises to juggle everything, but our institution is very supportive of their education and hopes to foster their careers as they go on to residency. Unfortunately, despite both being 1.0 FTE, they do not receive anywhere near the pay some people have mentioned in these replies. It’s closer to $50-$55k, even for those who already had advanced degrees. To that point, we would love to hear more about MPA salaries and how they measure up to their experiences and duties; feel free to DM me.

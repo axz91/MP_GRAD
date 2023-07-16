@@ -1,0 +1,48 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 12/14/2021
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Do medical physicists get their own offices? I was just wondering if they get as much facilities as doctors and administrators.
+	I have my own office, not that I get to spend much time in it...
+I am  a 2nd-year MPhil Medical Physics student in Ghana. I wanted to find out more about Medical Physics residency programs in the US, Canada or UK and if I would be eligible to apply for it from Ghana?
+	For US and Canada short answer is: no, you probably should consider PhD first in accredited school. Why is no, I suggest to through previous editions of Tuesdays posts.
+	https://www.aapm.org/students/prospective.asp
+Does one day medical physics shadowing is worth it to be understanding the role of medical physics or I need at least one month 
+Thank you
+	My advice is to shadow as often as you can. You can learn a lot in a day, but to truly understand the role of the medical physicist you need prolonged exposure. In addition, there is no possible way you can see everything a medical physicist’s job entails in once day. It’s a multifaceted profession with many responsibilities.
+		Prolonged exposure? Doesn't that go against ALARA? /s
+		I remember I shadowed for a day. I realized more and more throughout grad school I had no idea what was going on during my shadow day. Its just too much to really take in all at once. 
+
+I don't know how other people feel about shadowing but I personally feel that its mostly beneficial for the individual to see and understand the field they are potentially interested in. I do not think it should give anyone an advantage in applications other than having a slightly higher chance of sticking with things because you already know what to expect.
+Is it worth going straight into a medical physics masters or is it worth working as an imaging tech then going into a masters for medical physics? Wondering because I don't have ANY experience coming out of my bachelors in physics.
+	I went straight from a physics bachelors to grad school for medical physics. I had almost no experience or knowledge of the field and only shadowed half a day once and it was information overload at the time. I feel like I did fine and I had no issues getting residency or a job.
+
+Just my $0.02. I don't think it would hurt you and may even be a good idea to see if you enjoy the type of department or work you might be doing. I'm assuming if you are looking into imaging tech you are interested in diagnostic medical physics? I don't think there is a lot of overlap there but you would certainly have good experience running machines and setting patients up.
+		Hi! I’m actually scheduled to do an astrophysics bachelors over the next 3 years or so but will probably branch to MP for grad school(because apparently the astronomy field sucks). I assume everything you said would apply to me as well, even if our bachelor’s was slightly different?
+			I think if you meet the pre reqs for grad school (you will if you major in almost any branch of physics) you will be fine to go straight to a MP grad program. If know you want to end up in MP, the fastest and easiest way is to just start. You will gain all the experience necessary during school. 
+
+To clarify my previous post in this thread: I should have emphasized that while I think a related field wouldn't hurt, I don't think it will really help.
+				I see, thank you. So I should try and take all prereq’s for a CAMPEP program, is that correct?
+
+Sorry for my ignorance, I’ve only really started looking at medical physics over the last 2 weeks ever since I started discovering how miserable academia in astrophysics is
+					The pre reqs are all quite similar for CAMPEP programs which you’ll want anyways. Usually equivalent of a physics minor with two or three upper level classes. I just looked at the top 5 or so programs I was applying to and made sure my undergrad classes would be enough.
+						I’ll look into it. Thank you very much :)
+	If you know you want to go into medical physics, just do it.  Most rad tech programs (in the US) are typically two years (and depending on where you are can be competitive to get into) so unless you're still waffling over whether or not to become a medical physicist, going that route would just be a waste of time IMO.
+2 brand new MS programs are Brown University and Washington University (St Louis). Is there anyone here that works with either of those programs that can speak on how much clinical experience they offer ?
+	Make sure you do grad work in a CAMPEP program. Clinical work follows in residency.
+https://www.campep.org/campeplstgrad.asp
+[deleted]
+	Sun nuclear corp hires IT support for their products that require no travel because they send actual physicists out for training usually. It’s also very reasonable travel rates if you do have a travel role.
+	You might consider looking at jobs even if they have some travel. My current position said "25% travel", but even before the pandemic I was only traveling one or two weeks out of the year. Of course, if you are adamant that you can't travel at all this wouldn't work, but if you have a bit of flexibility, maybe consider that "some travel" might actually mean "very little". But it doesn't surprise me to hear that most jobs in this industry require some travel, even if it's just for one or two annual meetings.
+When we should expect the residency interview invites ?
+	Our program will do prelim interviews in early-January and full interviews for the selected candidates in early-Feb.
+	Idk about others, but I got an email from Texas oncology that they would let me know late January
+I am applying to Duke, Columbia, and Georgia Tech programs now. What are the advantages of each program?
+	For graduate school? I did the open house and interviewed at Duke right before COVID shut everything down. The campus is nice, the city is nice, and there is basketball if you like that. The classrooms were only a short walk to the clinic. They have a lot of research options. I would say Dukes biggest strength is its alumni network. They also bring up that they are partnered with siemens (which has a site in Durham NC). Only complaint I've heard from some non-Medical physics students there was that it was hard for them to get time at the hospital due to COVID.

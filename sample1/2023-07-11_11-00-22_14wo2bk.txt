@@ -1,0 +1,62 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 07/11/2023
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+I have been looking to transition from engineering to medical physics for some time.  My job will pay for a few *health physics* classes (Dosimetry, etc).  
+
+1. I know transferability of courses varies from school to school, but is a health physics background useful if one wants to pursue a career in medical physics?
+
+2. Are there any special pathways for health phyicists who wish to transition to medical physics?
+	1. There is certainly going to be a health physics/radiation protection class in a CAMPEP program, so it'll be useful there, but there's a lot more material aside from that which will be totally new too.
+2. No, there are no special pathways in the sense of being able to "skip steps" if going from HP to MP.
+Hi all!
+Are there any possibilities to find a starting medical physicist position (like trainee or junior) in the USA with non-us medical physicist graduation (phd or master), but with a few years clinical experience in external beam planning and dosimetry?
+Btw there is no medical physicist certification in my country for now...
+	https://www.theabr.org/medical-physics/initial-certification/international-medical-graduates
+
+Check this out.
+I’m currently on track to graduate with my BS in Physics Fall 24. Do any programs accept Spring semester or would it not be worth it being a semester behind? 
+
+I have connections at my local hospital from shadowing so am considering reaching out to see if i could do spring summer as an MPA.
+	Georgia Tech!
+		thank you!
+	OUHSC at Oklahoma City also accepts students in the Spring semester and they have a great program! Reach out if you have any questions.
+As someone looking to get into grad school, I have concerns about the long term viability of becoming a radiotherapy medical physicist. I plan on doing a PhD and then residency. This will be 6+ years of training and I was wondering if people currently in the field think it will still be a viable career in 20 or 30 years? It is a lot of training to end up jobless in a decade or two.
+	Do you think Cancer will be cured in 20-30 years? If your answer is yes, then we won’t need medical physicists. If your answer is no, then we will need medical physicists.
+Couple questions. At the moment, I'm only applying to MSc programs for next Fall.
+
+1. Why do many CAMPEP programs have varying curriculums/pre-req's?
+2. Is there a noticeable hierarchy among universities that might affect career options/pay after graduation?
+3. Are certain specialties more competitive than others?
+	CAMPEP only requires a handful of classes, the rest of the cirriculum is mostly up to the program director. They’re tasked with preparing you for success as a professional, many people think different things are important to that end. 
+
+No notable hierarchy, but always check their residency match rates. Some programs have low match rates, I’d personally avoid those. Some big names are actually “bad” programs from that perspective. Don’t go university name shopping, it’s not like other careers.
+
+Therapy med phys is generally more “competitive” because it generally pays the most, but imaging might be “more competitive” based on your odds of matching to an imaging residency because they may have less total slots available (idk the exact numbers, just speculation)
+For hoping to get into residency from a Master's program:
+Is it better to do a thesis? Or would it increase my chances of getting in if I get published?
+	Probably doesn't matter much either way with just a Master's. The programs that want publications are going to want PhD's and the programs that just want Masters residents don't care about your thesis or Publications. Thesis is good to prepare giving talks for resident interviews though. But so is a publication.
+I am graduated with a computer science degree with physics coursework up to modern physics. To get to the required three more upper level classes, is it advisable to get them at an accredited university (where I might need to go to in person class and have to miss work) or take an online course?
+Few  questions here! 
+
+1. I notice there are some MS Programs that don’t require GRE. Does the GRE make graduate students more competitive for residency training than those that do not?
+
+2. Is PhD necessary for those that do not want to do research? 
+
+3. Does working in imaging typically require a PhD?
+	PhD isn't required in imaging (or NM for that matter). As mentioned there are some residencies that will only accept PhDs. However, there are some jobs that can't/won't hire MS applicants. There are definitely jobs out there for MS. Unless you want to do research, I recommend thinking of a PhD as a way to open a few additional doors.
+	1. No, nobody reports GRE scores to residencies.
+2. No, PhD isn't necessary.
+3. No, PhD isn't required to be in imaging. Some residencies require PhDs but that's true of therapy as well.
+		Thank you for your response!
+How math heavy is the content for a MS in medical physics? I see all the pre-reqs about modern and quantum physics and calculus. 
+
+Are the courses very calculus/linear algebra heavy and how much do prereqs from undergrad help you in those classes?
+	Not heavy compared to any other physics degree. Pretty much can get by with differentials. Linear algebra not necessary.

@@ -1,0 +1,156 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 03/29/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Hi, For the Post-Match Process (scrambling), I wonder whether or not unmatched applicants should contact unmatched programs before 12 pm (noon)?
+	Are the emails being sent out now?
+
+That’s what I read from match website
+“Match Results Day: Results of the MedPhys Match are released to applicants and Program Directors. The Post-Match Process begins at 12:00 p.m. noon Eastern Time. No action to fill positions remaining unfilled is to be taken prior to 12:00 p.m. noon Eastern Time.
+
+Unmatched applicants are permitted to seek positions and programs are permitted to fill positions that remain available independently of the MedPhys Match.”
+
+https://natmatch.com/medphys/schedule.html
+
+I think it never hurts to reach out as early as possible.
+		No result email yet!
+Only one more day to go!
+	Finally!!!!!
+Hi, I'm a sophomore physics and applied mathematics major taking an intro to medical imaging class (covering Price and Links textbook on Signals and Systems including CT, Nuclear Medicine, Ultrasound, and MRI). I find the course and field to be really interesting, but I am not going to end up taking any chem or bio classes during undergrad. I could theoretically take a chem sequence, but that would be difficult on top of Quantum Mechanics/Electrodynamics (1&2), Complex Analysis/ODE/Basic Algebra, and Stat Mech/2 required history courses (slashes are three quarter "sequences" I've lined up).
+
+Is it important to take chem or bio classes for graduate programs? Is medical school usually a prerequisite to securing a job? Should I try to take chem or a major bio sequence? Thanks for any feedback!
+	Grad programs are usually looking for at least a physics minor, so you should be fine. As far as chem or bio courses, I think anatomy and physiology would be a good one to take (some programs require one). I do not think that taking a bunch of chem or bio beyond that is going to increase your chances of acceptance, but take them if you are interested and have time.
+
+I am a little confused by your question about medical school. I have never heard of someone going to medical physics grad school after graduating medical school. Assuming you are in the US that is a wholly different career path so no, it is not a prerequisite to getting a job.
+		Just a side note: I've heard of one person who did exactly that, was a physics major who went to medschool, didn't like it and left to enter medical physics. It's extremely rare, for obvious reasons lol
+			A physicist I work with knows one person who went from med physics PhD to medical school but yeah these kinds of career transitions seem to be rare.
+I'll be joining as an MS Medical Physics student soon, but wanted to finish the Human Anatomy & Physiology requirements beforehand. Since I'm an international student, I'm looking for courses offered online that are compliant with CAMPEP. 
+
+Would it be possible to suggest a few ONLINE courses if anyone has done them/is aware of them?
+	I don't have an answer for you, but doesn't your MS program have that course in their curriculum? I'm obviously glossing over the possibility of there being another reason you want take it online anyway, but I was under the impression that CAMPEP programs *are required* to have all CAMPEP required courses to allow graduates to be ABR eligible.
+		Apparently, the course (Part 1 and 2) offered is VERY exacting, and I have a few physics pre-requisites to take as well, which makes my schedule, tight. I thought I could get the Human Anatomy & Physiology requirements out of the way this summer.
+I’ve been accepted to two separate programs, one is in a public university with partial funding for a MS in medical physics, lots of clinical training, and in my hometown. The other program is at an Ivy League school but with no funding and I’ll need to move across the country. Would it be worth it for a master’s to pick the Ivy but also incur lots of debt?
+	I was in a similar situation to you for my MS. I was accepted to an Ivy (had to pay six figures), and a fully-funded state university MS. While both were far from me (I didn't live in the mainland US at the time), both programs are very strong didactically, clinically, and in research, so it was a very difficult choice to make.
+
+I ended up going to the Ivy for a few important reasons: 1) I knew I'd like the area more, which was immensely important to me during gradschool (though for some they find a way anyways) 2) The Ivy simply offered something (in terms of clinical experience and access to certain researchers) closer to what I was looking for. It'd important to make sure wherever you go has what you're looking for (want to do research? want more clinical experience? want a balance of the two? etc) 
+
+I don't think I would have regretted going to the state school. They had a strong program. While the Ivy name can be helpful in our field to a degree, this is not as pronounced in our field compared to others. You'll find that many well-respected programs (even some top programs) aren't based out of Ivy league universities.
+
+And there's obviously the big detail in the room: the money. Each person has their own financial circumstances, but funded MS programs in our field are rare, so do with that what you will.
+Hi, I would like to ask regarding some career path advice as I am planning to take a degree in Physics with Medical Physics. With this degree, what should I continue on if I want to be a Medical Physicist. 
+
+On another scenario, if I would rather be a radiation oncologist is it still possible with this degree?
+	No you have to go to med school for that, which is a wholly separate thing.
+Hi everyone, I've been accepted to Wisconsin and UTSW for a PhD in medical physics. My background is a Bachelor's in engineering physics. I'm a Canadian citizen and I plan to return to Canada for my career. Currently, both clinical and industry/engineering careers interest me (but not academia.) My understanding is that a PhD is essentially necessary to secure a residency in Canada should I want to go the clinical route, so hence I applied to PhD programs in the US. 
+
+Some differences between UTSW vs. Wisconsin I've observed are:
+
+* My PI at Wisconsin works in MRI, whereas my PI at UTSW works in radiotherapy.
+* Wisconsin is a comprehensive university with undergrads, varsity sports, etc. whereas UTSW is like a hospital with a grad school attached to it. 
+* The medical physics department at Wisconsin is much, much larger.
+* Wisconsin is a much older program and its alumni/industry network would be larger.
+* UTSW seems to guide students more towards clinical paths, whereas it seems some faculty at Wisconsin even slightly frown upon a clinical path as a "boring/non-innovative" choice. 
+* The lab at UTSW has fewer grad students (2 vs. 5-6 at Wisconsin). 
+* The lab at Wisconsin is more diverse (at least in the categories I can perceive it, ie. ethnicity and gender.)
+* The students at Wisconsin seem to pursue more non-academic hobbies.
+* Dallas is a much more car-centric city than Madison.
+* Dallas has more interesting things to do by virtue of being a large city.
+* Dallas is very hot compared to Canada. I'd have to give up snowboarding :(
+* UTSW is a Texas state agency and has recently been subject to political pressure on trans healthcare. The Texas political climate feels hostile to LGBTQ people like myself - but I'm less sure on whether urban Dallas would feel that way.
+
+Both schools offered me 5 years of guaranteed funding. Wisconsin's stipend is nominally lower (28k -> 32.5k upon reaching dissertator status vs. 35k at UTSW), but I haven't done a precise cost-of-living calculation.
+
+During the interviews, I communicated to the PIs at both schools that I'm looking to leverage my engineering background and pursue a more "engineer-y" project (as opposed to a fundamental physics/biology project.) It seems both labs would be able to provide this, but in different fields.
+
+Both schools seem to do excellent research. Wisconsin is the only school that dared to call themselves the "#1 medical physics program in the nation" during its open house, but UTSW claims the most NIH R01 grants in radiation oncology out of all US institutions. I'm not too sure what metrics are really worth paying attention to for evaluating schools and PIs. Should I care about h-index or something else? Another piece of advice I've got is to look at whether the lab publishes in a variety of journals (ie. high impact and medium impact) so as to see if projects with less notable results still get published.
+
+Looking down the bulleted list, it seems that most of the differences point in Wisconsin's favor (in my opinion.) But I'm hesitating as I feel a UTSW education may be more directly relevant to a clinical career. Are there any other criteria I should consider? I'd welcome any and all input on my choice. Thanks for reading and thanks in advance for your help!
+	Since it seems like it's a concern, I would suggest UW. Here's why:
+
+Texas is not very LGBTQ+ Friendly (even in the big cities where it is more left leaning)
+
+UW is more diverse
+
+Not as big of a climate difference at UW.
+
+Both are great schools with great reputations, and UW is well known for its clinical program and is also fantastic at research. I say this as a set decision mostly because of the poor treatment of the LGBTQ+ community in most of Texas.
+		[deleted]
+			Ah my bad. I've just had bad experiences in Dallas and San Antonio. Diversity in Texas definitely makes sense compared to Wisconsin. I guess I also spoke a bit prematurely on the climate in Texas. Thank you for your corrections and apologies for my misleading information.
+	Many different people that I have talked to have all told me that UW is cream of the crop. I believe that if you go to either one, then a clinical career is definitely a very viable option, but UW seems to open doors more easily. Again this is based off of people I have talked to (inc a residency PD).
+	While the program is important, the biggest factor for happiness and success of a PhD student is their advisor and lab. For most of your time, your advisor will be your direct boss and the lab’s focus will determine what you do day-to-day. So, I suggest you look at the labs within each program and see which has more PIs who’s work interests you.
+
+You mentioned a few indicators of a strong lab, but other important factors to consider when looking for PIs: their involvement in AAPM committees or journal editorial, the number / placement of their graduate students and how long their grants or funding will remain active.
+		Thanks for the advice! At both schools, I would be admitted directly into a PI's lab (ie. no lab rotations) so I have already tried to scope out each PI's working style, personality, etc. via contacting their grad students. Both PIs seem to be able to offer the engineering-flavored experience I'm looking for. If I contact the students directly, do you think their comments will be candid, or is there an expectation/culture that one should speak positively about their PI?
+			I would guess there is at least some pressure to speak positively unless they personally know you. This person is their mentor and they probably don't want to get caught saying bad stuff about them, even if they dislike them.
+	I’m a current first year Medical Physics Doctorate student at UW-Madison. If you decided to go here please reach out, I would love to connect with you maybe play rocket league or go curling sometime.
+Hi, I am currently working a job at a hospital as a medical physics assistant. I was wondering what some of the different paths of advancement career wise are from this position. MPA does not seem like a job with a lot of opportunities of advancement without going back to school to become a medical physicist.
+	At my place the assistants have some mobility into managerial roles (n=1) that are non-clinical but this may not be the case everywhere.
+		What kind of managerial positions? The totem pole at my place kinda stops once you become a supervisor and they just mentor the other physics assistants and still have to QA from time to time.
+			It may take some additional degrees--maybe not the medical physics side--but most radonc departments have a manager who may not be a doctor, physicist, therapist, etc. Usually they are in charge of the business side of things, but having someone with a lot of knowledge in Radiation Oncology would be huge because the departmental managers will usually deal with purchasing and negotiating of equipment and service contracts. 
+
+You may need a business/administration degree (MBA, MHA, etc) but a lot of those can be taken online.
+				Yes it does seem that way. I’m not sure if I want to tread down that path however. I just started my job as a MPA not that long ago so I’ll chill out for a bit and weigh my options to see if I want to get into the business side of things. Thx for your response.
+			One did that kind of supervisor you're talking about, another went into the IT side of things (non-clinical). Not my ideal path personally so I'm still going to try my best to get residency.
+				Alright, thx for your response. Good luck with your residency when you get it!
+I’m an undergrad student studying physics at the University of Calgary, and plan to apply to a medical physics grad school program (MSc) when my BSc degree is complete. Anyone have tips for increasing my odds of being accepted into grad school. My grades are great, but from what I hear having research experience / knowing profs is a lot more important, can anyone speak on this?
+	If you have a co-op program, and it’s not too late, try to get into that.  Try to get a summer research position in medical physics.  Reach out to other centres in Alberta too, for summer positions.  If your program has an undergraduate thesis option, take that and find a med phys project.  Look at prerequisites for the grad courses and grad school and make sure you take them.  If the med phys courses are cross listed with undergrad, see if you can take one. Keep in mind grad courses are more work than undergraduate.
+	Hi! I just graduated from physics at UCalgary, and I'm going into medical physics in the fall. Feel free to send me a message!
+		Awesome, I sent you a pm! :)
+	Research, especially relevant research (if possible), is a big plus. I did somewhat relevant research in the field of Biophysics and in my interviews for Medical Physics programs, that seemed to give me a little more certainty about the direction of the conversation. It also shows what I'm about and how serious I am. Now, of course this research experience is more applicable to PhD applicants, but it also shows you're a hard worker and shows you can commit yourself to the extra work it requires. If you can get relevant research especially, it shows commitment to the field of Medical Physics.
+
+&#x200B;
+
+Other things I'd suggest is getting to know faculty and make sure they can say a lot of good and **unique** (it's important to be memorable) things about you to make your letters of recommendation stand out. Also, shadowing a medical physicist or getting a summer internship helps show that you know what Medical Physics is about and are serious about it. Another thing that some schools like is taking an anatomy course or series. This is mostly because it is a requirement for some schools.
+
+&#x200B;
+
+To summarize, the most important things in my opinion are going to be:
+
+Good Letters of Recommendation
+
+Medical Physics Shadowing/Internship
+
+and
+
+Research experience.
+
+For a Master's program I'd prioritize in that order. For a PhD I'd say research is tied for the most important. A possibly helpful bonus (but it might not make much of a difference in your application) is an anatomy course or series.
+		Thanks for the response, lots of helpful information!
+I need help making a decision regarding career. Do I have to ask here or make a post about it. 
+
+I am new here.
+	Here is a great spot for all things regarding education, training, and the path to get there. I would post in this thread!
+		I need help deciding on a career option. 
+
+I am an international student and interested in a medical physics career. As o now, I got admission to two different universities that I am considering. One is Ph.D. in Physics where there is a research option in biophysics, and the other one is the Ms program in Medical Physics. 
+
+I want to get a Ph.D. and get a GC afterward. Also, I have to consider financial options as well and the Ph.D. program is in a cheap place compared to the university that offers MS.
+
+What to do now? I want to get maximum options for a medical physics career. 
+
+Can chat separately if you want to know the specifics.  
+
+Also, I want to know If any university offers financial aid to international students in a Graduate Certificate.
+			I'd personally suggest getting the MS and then getting into a PhD program after that in Medical Physics. You'll have a more direct education on the thing you want to do, it won't take as long, and you could possibly try to get funded in the MS if that's an option where you got accepted. The certificate, as far as I know, you would have to pay for anyway.
+				I got a fellowship for the MS. But I am concerned whether I would get employment easily after that.
+					Right out to MS to work in industry/research it would be tough, I would suggest phD. If you want to work clinically go to residency and you should be set. Don't believe on all the "hard to get residency with just a MS", you can be a very competitive master and match just fine.
+					You can always apply to PhDs after that! But yeah employment with just a master's in medical physics can be hard I hear.
+			If you prefer getting a PhD and doing a certificate afterwards, then it sounds like you already have that open to you. I would just make sure that the program you're accepted to has good funding and advisors. If by financial aid for certificate students you mean stipends and the such, no I haven't heard of anyone getting those. I believe that most people use their own money or take loans for certificates, but I could be wrong.
+				I looked into a few certificate programs and found no financial assistantships are available for certificate programs. On the other hand, if I go through the MS in medical physics first and then a Ph.D. in it, there wouldn't be a need to go through a certificate. On top of that, availing of funding for a Ph.D. in medical physics after MS is possible. However, if I choose to do a Ph.D. and then try to get funds for a certificate program, there are no options as far as I have looked.
+					[deleted]
+						Luckily enough I got a funded MS. What are the employment chances after a successful MS in the US?
+							Do MS then. It's increasingly more and more difficult to get into a residency with non-CAMPEP PhD, whereas CAMPEP-accredited MS should be good enough for a great many residencies. You can do F1-OPT after MS which will get you through a residency and give you one more year to work while still in F1 status, and then you can easily switch to H1B, which is a dual-intent visa. As medical physicists are currently in short supply, you should be able to negotiate with your hospital that they don't wait all 6 years on H1B to start your GC application process, but apply for it, for example, after one year of you working there.
+								You definitely cleared the process. Thank you!
+						I am assuming by your name that you are in fact a Ph.D. Would you consider MS in medical Physics easy than an MS in just Physics? I mean what difficulty should I expect in MS medical physics? considering that I am an International and not familiar with the US education system other than the online lecture videos.
+
+Edit: I am assuming medical physics to be a practical hands-on demonstration of theory, which I am good at.
+							How hands on a program is varies wildly between programs. You can ask ahead of time what kind of clinical experiences students get if that is what you are looking for.
+[deleted]
+	Never heard of it but the testimonies are 7-10yrs old.

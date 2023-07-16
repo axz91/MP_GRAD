@@ -1,0 +1,67 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 08/16/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Hi, I'm starting a Master's in MedPhys this September, and I was wondering whether people usually apply during their Master's or after they have finished it? 
+
+I know the interviewing process would require talking about research but our research project only starts in January so I wouldn't have much done at all, just background research by then.
+
+I'm also wondering if they require our results in the application process, if so I wouldn't have them until I finish the next September.
+
+I'm wondering if people in the US/Canada apply during the Master's or after? If there is a way I would like to apply during as then I feel I would be wasting a year going through the whole process and being unemployed.
+
+Edit: forgot to say applying for a residency
+	>Hi, I'm starting a Master's in MedPhys this September, and I was wondering whether people usually apply during their Master's or after they have finished it?
+
+Apply for what?  Residency?  Job?
+
+Since you're just starting your Master's, you've still got at least a couple years before finishing.  Applying for anything at this point would be a bit premature.  Focus on your coursework and project.  About a year before you finish would probably be the best time to start thinking about the next step.
+		Residency, my bad! My Masters is only a year so in that case I'd probably have to apply this year
+	Apply to residency? If that's what you talking about that you usually apply on the last year of your masters, same for phD. They don't required you have results from your research, just talk about what it is, what are you doing and whatever prelim result you have or wish to see. You can always apply later but yes, sooner is better than going 'unemployed', but if you decide to wait a year, try to find a job on the field to improve your application strength
+		Oop yeah my bad I somehow failed to mention that I'd be applying to a residency. Thanks for the advice!
+I'm currently working on a PhD in physics. My thesis work is computational and requires expertise in nuclear physics. Would someone like me be able to get a job doing research/development for new medical imaging technologies? In particular I could see myself doing simulation work, for example, simulating the beam and how it interacts with the environment/bodies/equipment. I would also really like to be involved with clinical research.
+	I can't say specifically. However, I've personally had two colleagues with PhDs in nuclear physics (and I've heard of many others as well) and had extensive experience with Monte Carlo. One of them was researching TSET cherenkov imaging, which involved a lot of Monte Carlo simulations and such.  Just saying it's certainly possible, but I'm unaware of the difficulty.
+		Thanks for replying! When you say these were your colleagues, in what context? I assume you’re a clinical physicist because your flair says you’re a therapy resident. I’m not really interested in the extra education needed to be board-eligible, so most clinical stuff is out the window. Which is fine with me because I think what I’m more interested in happens mostly in industry or non-clinical roles, but I could be wrong.
+			Yes, I'm currently in a clinical role, but this was before I started residency. I was working as a research associate in a lab doing research that is radiation therapy adjacent. 
+
+One of my colleagues was a post-doc researcher in the same lab (doing TSET Cherenkov imaging research). The other was in charge of a small animal radiation research platform. Both of them were completing a certificate program part-time and after a few years later applied and matched into residency.
+Would therapy residency programs rather see LoR from a surgeon, radiologist, or research scientist if all other things like career status and relationship were equal?
+	If it’s a letter from a well known person in the field it can go a long way. Otherwise it probably doesn’t matter as long as the content is positive.
+	Generally, who writes your LoRs is largely unimportant. It's what they can say about you that should dictate who you get LoRs from
+International student here, having previously completed an MSC in medical physics (campep accredited). I'm looking toward the US for career options but do you think there's a real possibility of me getting a residency over there with just a master's + also requiring a visa, or am I wasting my time?
+	You can get an OPT (gives you 3years, so enough to finish residency) which most academic institutions are fine with, as you bear all the costs ($400ish). Some places also do H1B visas...make sure to individually email all places you would want to apply to before paying for the application, so you don't waste your time or money.
+	If you need the visa assistance it lowers your chances. I know a lot of programs don’t want to deal with the hassle. Otherwise your chances are the same as anyone with a campep masters which is decent in my opinion. I prefer many masters students over PhD with only a 1 year certificate. PhD in Medical Physics still is likely the highest sought candidates but there are not many of those compared to the number of residencies.
+Job applications that ask you to state your current salaries.  What do others generally do here?  Especially when it's a required line in an application form?  It seems to have no other basis besides letting a clinic know if they can low-ball your offer.
+	Pull a reverse uno card on them and inflate your salary (or provide an arbitrarily large range). I've never done it in this field, but I have in others. If they're unwilling to be specific and up front about salary offers, why should we be expected to?
+		That’s dangerous, because some employers will ask you to verify past employment and salary. Some states have banned this, but most haven’t. I don’t think employers can get this info without your permission, but they could pull your offer if you refuse (in states where it isn’t banned). I’m not sure how many would actually rescind an offer upon refusal, but it’s possible.
+			Ah, fair point. I did this where labor laws are a little more pro-worker. Definitely didn't intend to suggest anything that could get anybody in legal trouble. It's just silly just how much leverage employers have over us.
+				There wouldn’t be any legal trouble, just potential loss of an offer or job.
+
+Yeah employers have too much power over workers. One nice thing about working for a radonc department at a public university hospital is that salaries are public info and you can easily see what they’re paying their staff. It’s harder to get screwed.
+	I put in an obviously wrong number ($0, $1) and try to note somewhere that I would be happy to discuss compensation later in the process. I try to avoid disclosing my previous salary if at all possible. The exception was when I moved from a very high cost-of-living area to a low COL area—I disclosed my salary because I knew it would be higher than their offer.
+I’m having a very hard time between choosing if I want to go into Radiation therapy or diagnostic imaging.  Can someone help me with the differences between the two?  I would love to know stuff like pay, availability of jobs and residency positions, what they do in the clinic, and if one is on track to become a lot bigger in the future.  
+
+I know it’s a lot to ask but any information would be greatly appreciated.
+	From what I know:
+
+1) Pay - Therapy makes more than diagnostic on average, but they also have a worst work/life balance (always a case by case, I'm again speaking 'on average').
+
+2) Jobs - There's a higher demand of therapy MPs, but all Diagnostics I know had a job lined up 4-6months before finishing residency
+
+3) From the match last year there was around 25ish positions for Diagnostic (if you count all, much less if you only have a Masters), and more than 150 if I remember correctly for Therapy.
+
+4) Therapy works with LINAC, treatment planning, brachytherapy and all else related to cancer treatment, while diagnostic you are working on different modalities such as CT, MRI, US, etc... to see if they meet regs, image quality and whatnot. Both perform shielding designs for rooms with equipment.
+		Wow thank you so so much for the great info.  This is so helpful.  It seems like therapy is just a better path to go then?
+			Well, as you can see from my tag I went the imaging path. It really depends on you. Therapy has the higher wages but also has higher competition for residency spots (even with more spots they have more applicants as well) and longer work weeks (I do 40rs a week in my residency, I have friends on therapy residencies that works 60hrs per week, have late nights and all that). Diagnostic has a better work life balance but  worst pay (in my place therapy physicists can make up to 100k more than their diagnostic counterparts, something like 140k diag vs 240k therapy). 
+
+In the end it's all about what you liked in class, what you want your work life balance to be... just go with the modality that you are interested on (my 2 cents).
+				Hmm I’m only a masters student rn but if I want to go into a imaging residency, should I try to have a PhD?
+					Not really, I got a residency and I'm a masters student also. There are places in both sides of things that only take phD, but again ots up to u. I didnt wanted to do 4 more years to get a phD before residency
+	I know therapy MPs makes up around 80-85% of MP positions, whereas as DI MP make up around 10-12%, last few percent are nuclear med specialist; if my numbers are up to date.

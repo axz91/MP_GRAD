@@ -1,0 +1,66 @@
+Post Title: An unaccredited program at John Patrick University of Health & Applied Sciences
+Post Content: [Medical Physics - John Patrick University of Health and Applied Sciences (jpu.edu)](https://jpu.edu/programs/school-of-physics-and-radiological-sciences/medical-physics/)  As this is unaccredited program, I am not sure how can get residency or certificate. According to the school, there is an alternative pathway, but I am unsure exactly how it works.   Is this something I should pursue? The program is online, which is an advantage.
+
+https://preview.redd.it/0yc4fr1idmsa1.png?width=1290&format=png&auto=webp&s=9fcf698f8186976fae5b8cff23a18ef906e7feba
+
+&#x200B;
+
+&#x200B;
+
+Seems like there is a pathway via ABMP
+
+[https://abmpexam.com/wp-content/uploads/2019/02/ABMP\_Info\_Booklet\_01\_2019.pdf](https://abmpexam.com/wp-content/uploads/2019/02/ABMP_Info_Booklet_01_2019.pdf)
+
+&#x200B;
+
+https://preview.redd.it/p7zba77l5qsa1.png?width=669&format=png&auto=webp&s=9c6b34684b7e98a95a7627aa932b5aedff764c99
+Comments: 
+John Patrick seems to be a school more focused on the money, their online dosimetry program is more expensive than a lot of others and from my experience with people who have gone through the program, isn’t really the best
+	There are only 37 dosimetry programs and many of them are from private universities. This indicates a failure of public education.
+		I only see 14 accredited dosimetry programs on the JCERT website. Of those I count 10 public and 4 private institutions.
+If you want an online program do Georgia Tech.
+	Is that online program accredited
+		Yes
+My understanding is that a graduate program must be CAMPEP accredited for its students to sit for the ABR exam.
+
+Specific questions about eligibility are best answered by the ABR to take any uncertainty out of the answer. 
+
+https://www.theabr.org/medical-physics/initial-certification/part-1-exam/requirements-application
+	>program must be CAMPEP accredited for its students to sit for the ABR exam.  
+>  
+>Specific questions about eligibility are b
+
+Seems like there is a pathway via ABMP  
+  
+https://abmpexam.com/wp-content/uploads/2019/02/ABMP\_Info\_Booklet\_01\_2019.pdf
+		As far as I know, ABMP doesn't certify diagnostic or therapy physics. If MRI or health physics are the preferred specialty, then I think you are correct
+			Correct, the only people ABMP certified that are practicing are close to retirement/retired.
+If you want to be a clinical medical physicist, you must go to an accredited program to sit for the ABR exams. I've seen the link you posted about the other pathway, but that is not for therapy, imaging, or nuclear physicists. 
+
+Do not do it.
+Their dosimetry (CMD) program is accredited but their medical physics program is not.  They are "planning" to seek accreditation but it's been a long time coming.  I would not pay to pursue an unaccredited medical physics program.  
+
+To the best of my knowledge, the only viable alternative pathway for ABR board eligibility other than a CAMPEP graduate degree is a PhD + a CAMPEP certificate.
+	>Seems like there is a pathway via ABMP  
+  
+https://abmpexam.com/wp-content/uploads/2019/02/ABMP\_Info\_Booklet\_01\_2019.pdf
+		That link is broken for me.  My understanding is that ABMP is now pretty relegated to health physics (like RSO duty) and MRI diagnostic.  There may be some therapy or mainstream diagnostic jobs that would accept an ABMP physicist, but I think ABR certification has become the desired standard for those roles.  It would depend on the career goal of OP, but ABMP is a more limited certification in the current field.
+JPU is a for-profit university. I recommend that you investigate what this means if you are considering enrolling. There are various discussions of for-profits around reddit and elsewhere.
+Unless you have no plans to pursue a clinical medical physics career that requires board certification, there's really no reason to go through a non-CAMPEP accredited medical physics program.
+	>Seems like there is a pathway via ABMP  
+>  
+>https://abmpexam.com/wp-content/uploads/2019/02/ABMP\_Info\_Booklet\_01\_2019.pdf
+		ABMP only offers board certification in MRI physics, medical health physics or MRI physics in radiation therapy.  For diagnostic, therapy, or nuclear medicine, you'd need to go through ABR for board certification.
+			Or ABSNM for nuc med.
+I believe ABMP only does exams for MR and health physics at this time. The agreement between ABR and ABMP means that ABMP can’t examine in an area that ABR offers an exam. Therefore, if ABR decides to do MR physics, then AMBP would only have health physics.
+
+The alternative pathway for ABR (going through CAMPEP) would involve getting a PhD degree. The PhD would allow you to enroll in a certificate program, which would allow you to take all of the MS courses again. Then you can get into a residency. That they have not bothered to get CAMPEP accreditation is a red flag in my opinion.
+[from 2 years ago](https://www.reddit.com/r/MedicalPhysics/comments/laketj/anyone_know_anything_about_john_patrick/?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=2&utm_term=1)
+Is this the school that used to be called something like "Radiological Technologies University"?
+	Yes
+		I know a person who went there and ended up having to leave the field, fwiw
+			What had happened?
+				Couldn't get a job in MP or health physics
+It's a viable option if you are working in the diagnostic or health physics side of things (you are eligible for the abmp, chp, and absnm). You can't get your abr, but the acr and mqsa both have clauses allowing for people to perform their respective testing without boards. It's not a good option for a career in therapy.
+
+Side Note: a lot of hospitals and consulting companies (again, diagnostic) that I have been exposed to are so short on physicists they are happy to hire someone (and training them extensively) with a masters even if they don't plan on taking boards. I have even seen a lot of Physicist Assistant jobs recently. These are typically someone with a bachelors and then they may have their training in house and get a degree online.

@@ -1,0 +1,51 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 11/15/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+GPA in undergrad in order to get into a CAMPEP med phys school? And what’s the typical cost for grad school?
+What are MS graduate programs that require job Shadowing to incoming undergraduate application instead of research?
+	No programs require shadowing as a part of your application. I'd say that any program would value relevant research experience over shadowing.
+How far can a PhD get you in a clinical setting compared to a master's?
+	The same. Supervisor/leadership roles may be restricted to PhD though.
+I just found out through the grapevine that I'm not on the interview list for my dream job. Thought it was a perfect fit, so getting this rejection was a huge blow. Didn't even get a notification from HR. 
+
+I know resiliency and grit are important, but man this really hurts. Time to mope for a day and then get back at it.
+	I'm sorry to hear that. I'm sure that different opportunity will come up in the future.
+Hi everyone, I really want to pursue medical physics but have a few concerns/questions, I'll try to keep it short
+
+-Im 25, have a BS in Exercise Science and am pursuing a BS in Radiation Therapy 
+-I have only taken introductory physics 1 and 2 (not calc based) and calculus 1, no other physics courses -Im wondering the best course of action since I believe you need the equivalent of a physics minor to be considered
+ -Should I just chip away at the prerequisites each semester? 
+-What specific courses are most important and have the highest carryover?
+-Lastly, will I be able to still work as a radiation therapist while going for my masters? (I know for residency that's not an option)
+
+Any advice is greatly appreciated!!!
+	Are you set on doing medical physics or RT? It'll take a lot of effort to change directions if you have only taken non-calc based physics courses so far.
+		Definitely medical physics, I understand I have a lot of ground to make up. This is a long term plan. I know that by the time I'm 40 I'll wish I went for medical physics. I plan on working as an RT while I take prerequisites
+			OK if you're up for the increased workload of doing school while working you can certainly do physics prerequisites at a local college. This generally amounts to upper division mechanics, E&M, modern physics (some places require QM), and the math classes associated with all of these. A lot of places also require a computer programming class. If you plan on working while doing your masters, Georgia Tech's online masters in medical physics may be a good option for you. I am in my last year of the program while working as a physics assistant the whole time.
+	[deleted]
+		I appreciate the advice! I've been speaking to a lot of the higher ups at the clinic, and I'm weighing the pros and cons of med school vs med physics. Because as you said, I don't have that engineering background and I do like the biology (memorization). And now I realize medical physics will be just as long if not longer than med school in total
+			Physicians definitely have the longer training duration. Question is do you actually want to be a doctor in this day and age (I read r/residency every once in a while for fun). The answer for you could be yes, but the answer for me was definitely no; medical physics is my path for sure (used to be premed in college).
+[deleted]
+	There's certainly no harm (aside from increased application fees) to applying to more. It's really hard to gauge PhD acceptance chances but it sounds like you have a solid footing.
+		[deleted]
+			No problem, good luck with your apps!
+I am applying to grad schools for medical physics, 3 of them, all in the US (I'm in the US). One of my recommenders is a professor at the university where I got my bachelors of physics this spring and we were on quite good terms.  He has asked me to draft my own letter of recommendation.  I imagine he is quite busy because he runs a significant chunk of the physics research programs there, as well as teaching ALL of the junior and senior level undergrad labs, AND English is not his first language (he tends to struggle with grammar a bit despite being absolutely brilliant, and he's always struck me as being a bit embarrassed that it's a barrier for him).  Obviously he'll be able to add or edit it as he sees fit after I've sent him the draft.
+
+What points would be good to include in my letter?  Suggestions?  Guides?  I've never done this before.
+
+&#x200B;
+
+thanks
+Hello all, I'm currently a clinical lab technologist interested in the medical physics field. Unfortunately I don't have a background in physics - I knew I should've double majored :(  and my bachelors is in biology. What's the quickest way for me to get my foot through the door? Is there a masters track I can take?
+	Yeah, you can definetly do a masters in MP, problem is most require that you have done either a full physics major/minor, and some you need some classes. Each individual institution has their requirements in their website
+I am a CMD helping to teach a Dosimetry class to Radiation Therapy students. This class needs major fixes/updates and I'm looking for feedback/ideas..  
+  
+From your experience and perspective as physicists in Radiation oncology, what are some ideas/concepts/etc. that you wish the practicing therapists had a greater understanding of regarding treatment planning/clinical dosimetry.

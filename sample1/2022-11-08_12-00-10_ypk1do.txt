@@ -1,0 +1,66 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 11/08/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+I have a few questions
+
+I will be graduating in Spring 2024 with a Dual Degree in Physics & Biochemistry. So I had several questions about courses and general admissions requirements since this is my main concern:
+
+1. What is the general admissions GPA requirement? I estimate that I will have around a  3.3 GPA by the time of graduation. This, along with research and EMT Training will be the key things on my application, along with recommendation letters from Biochemists/Physicists/Engineers. 
+2. How does EMT Training look for these programs?
+3. I've also been debating on elective coursework for my Physics Degree, given there's choices involved with this. I was debating on the following classes: Mechanics II (Legrangian, Two-Body Central Force, Rigid Body, Hamiltonian, etc), Condensed Matter, Optics. I have other classes picked out that I technically have to do, but I was debating on taking those courses specifically as extra.
+4. Also, what is the recommended amount of programming courses to take?
+
+Thank you for anyone who responds. I am trying to plan out my upcoming semesters but I don't know what exactly to do. I had read a blog by a Medical Physicist about what it is like working the job, but I don't have any resources that tell me exactly what I should focus on.
+	You sound a lot like me, my primary major was biochemistry, and my second major was physics (biophysics concentration). 
+
+1. Agree with Ptch that the higher the better. It's very difficult to give "cutoff" estimates since it varies between programs a lot. High grades in upper division physics will be very good for you.
+2. I don't think that EMT experience will add much to your application (I didn't add mine when I applied). However, if it helps you speak intelligently about why you want to become a medical physicist in your PS then go for it. 
+3. I'd take mechanics II because I think a lot of programs ask for upper level mechanics, E&M, and modern physics as required undergrad courses for admission. The others sound fine if you still need physics credits and time, though. 
+4. Some programs specifically require a programming course. 1 is probably enough tbh. 
+
+Just curious, what blog are you talking about? I'm interested in reading it as well.
+		It's a blog someone had posted on Quora a while back, but I lost track of it a while back. I had it saved somewhere, but haven't been able to find it.
+
+I will also take a look into those classes, I was never a fan of Mechanics topics so I've been trying to focus on other studies. Thank you for the feedback however, it was insightful.
+	I would say that you should take whichever classes you can do well in. Depending on the program and if you want to do PhD/Masters, you'll probably want to get it as high as possible since 3.3 is on the low end for PhDs, and committees will put a significant amount of weight on it. As for more info, feel free to email professors/grad students in medical physics. My DMs are open if you want to chat, and I know UCLA, UChicago, and Duke have regular info sessions for potential applicants. 
+
+Don't worry about starting the training now, that is what grad school is for. Worry about grades and talking to medical physicists to get a good idea of the career and the paths you can do.
+		As for the GPA aspect, do you think doing well in higher physics courses would serve me better? Also would doing good on the Physics GRE help?
+			Physics GRE I believe for many programs is optional now, but if you do well, it does not hurt to send the scores in. And also yes, doing well in higher physics courses would be great! For example, getting a B in Mechanics I/E&M I that you would take in first or second year, and then getting an A in Mechanics II/E&M II that you would take towards senior year would show the committee that you can do well in tougher classes and that those first/second year grades don't need to be weighted as heavily.
+
+If you're confident, I would recommend taking tougher classes (and doing well in them) that are higher-level than other classes you have taken and may have not done well in. So like Mechanics II, Quantum II, Advanced E&M, or whatever flavor of those your program has.
+Is a master degree specifically on MP the best path if one wants to get into the field? Or is it better to just study nuclear physics, as one possibly gets more breadth of physics in such a program?
+
+I'm just feeling that it would be pretty bizarre to go and study nuclear physics and then apply for an MP position without ever having seen or studied a hospital LINAC up close, without having studied any of the concrete medical subjects which are important for MP, or without having done any internship (which is included in a program which I'm currently looking at, from KU Leuven in Belgium)
+
+On the other side of the coin, would studying MP limit yourself in terms of physics job possibilities outside of MP?
+Through a long series of complicated circumstances, I am currently getting a dual masters degree in Dosimetry (accredited) and Medical Physics (non-accredited) and am trying to figure out what some possible job opportunities/board certifications I might have in the future are. My bachelors is in Physics with a math minor. Has anyone encountered someone who has done something like this? Or do you have any suggestions for internship concentrations/points of interest I might want to look at?
+MS Kentucky VS MS LSU VS MS Vanderbilt
+1- clinical experience provided
+2- Financial support
+3- the cost of living
+	1-UK,LSU,Vandy (but all very good)
+2-LSU,UK (don’t know a thing about Vandy financial support)
+3)UK/LSU, Vandy (Nashville is more expensive to live than the other two)
+
+I think LSU might be free for most students (I could be wrong). UK some students can get teaching jobs in the physics department if it’s available and the medphys is qualified to teach physics to undergrads. All three are good schools very similar to each other. I’d just go to whichever one you like best as all 3 are held in high regards with clinical medical physicists.
+Does anybody know much about health physics as distinct from medical physics? I have a general idea, but I’m less aware of all its career options. Is it possible to enter that field with only a bachelors degree?
+	This website should help with regards to HP certification at least: [https://www.aahp-abhp.org/abhp/home](https://www.aahp-abhp.org/abhp/home)
+	I know of a guy who got an HP bachelors degree and now works for a nuclear power plant. He got this job mostly because a friend put a good word in for him (networking). 
+
+Depending on what you're going for a bachelors might be too much or not enough. If you just want to be a radiation protection technician at a plant a bachelors should definitely be enough but I heard of some community colleges who give you enough training and certification to enter that career. If you want the title of "health physicist" though you are probably going to need very good networking skills or grad school. 
+
+Medical physics, in my opinion, is like a subfield of health physics. Medical physics is health physics applied specifically to hospital/medical use such as being the hospitals dosimetrist. Health physics does touch up a lot on dosimetry but the class is more general and not specifically for hospital/medical field. Health physics also encompasses things like environmental protection, which some graduates go and work for things like the USEPA or USNRC. 
+
+Hopefully others can also comment on what they think and if they agree or disagree with me. I was honestly really split between grad school for the two but what put me over the edge was having to do a residency after grad school and how HP is more broad and can be used in more areas than MP.
+
+
+edit: specific job title differences could be Resident Dosimetrist for MP but HP jobs can be health physics for a nuke plant or Radiation Safety Officer for a national lab

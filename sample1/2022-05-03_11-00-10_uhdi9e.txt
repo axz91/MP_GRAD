@@ -1,0 +1,63 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 05/03/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+I am an X-ray tech. I don't like patient care at all. I love the logical and analytical aspects of radiology.  MR is my favorite, but i want to learn and have a job based around the science and reasoning of radiology, much less the positioning and treatment, Is this a good career switch? it it common for rad techs to make a switch like this. I also like medical dosimetry. What is a more realistic approach and what will support me more financially?
+I’m in my last quarter of undergraduate before attending a PhD program and am looking into taking one of my spring classes Pass/Fail. It’s a machine learning course that I’m taking out of pure interest. I’m worried that a Pass/Fail grade (vs ABC grade) might reflect poorly if I pursue residency or more education after my PhD. Does anyone have any insight/thoughts about whether this matters as much as I’m worrying it might?
+	I highly doubt 1 PF credit will factor much in residency apps, especially if you are completing a PhD. Don't worry you'll be fine.
+	"More education" - I mean...there is none right? You're done. Time to enter the work force and start earning your keep.
+
+Residency - a single course between a bachelors and a PhD as a pass/fail compared to a letter grade is so inconsequential it's hard to put into words.
+
+"whether this matters as much.." it doesn't. It means pretty much **zero** in your future endeavors. Take it. Or don't.
+		I would guess it means at most a certificate if the PhD isn't CAMPEP already.
+Are there any places where I can find info on non-clinical jobs/roles? I have shadowed a clinical physicist for a bit and am very interested in going into the clinical route, but would love to hear about what other opportunities are in the field if I were to not get a residency.
+	AAPM jobs board, Linkedin are where I'd start looking.
+[deleted]
+	This sounds like a really sketchy situation, especially since he is apparently blaming you or trying to throw you under the bus. This isn't normal at all. Some collaboration is expected in a team but if what you're saying is accurate I'd be very suspect of this person. I am assuming with "30 years" of experience he's much older than you and maybe has more surface level credibility to outsiders, so you should be very careful. What does your supervisor think of this? Does this new physicist report to the same person as you do?
+		[deleted]
+			Haha I am glad you're getting out. Good luck with your new job!
+What will be the difference between medical physics and medical dosimetry for treatment planning, are they doing the same things or the physics check what will the dosimetrest doing?
+	[deleted]
+		Adding to this:
+Most physicists don’t do much treatment planning. Brachy and some SRS/SBRT. Most places I’ve worked, physics plans brachy and will assist with SBRT but generally dosimetry picks up linac based SBRT/SRS. 
+Most of my planning duties tend to be more difficult and special cases. Even then, it’s more of working with the dosimetrist with suggestions while they drive the planning system. 
+
+We also work in the planning system evaluating new RapidPlan models or techniques. Or sometimes, just checking what else can be pushed on for a specific plan.
+		Just a note on PhD physicists: 
+
+At some institutions, their research is a smaller portion of their duties compared to clinical duties. In fact, some institutions don't even offer protected research time; faculty are expected to "fit it in between clinical duties" (we all know it's unlikely they can manage that, so after-hours it is). That said, I don't know how common this is.
+			That's been my experience too. Research requirements vary institution to institution. My academic instution does not have strict research requirements, and the PhDs and MS physicists share the exact same clinical workload.
+				[deleted]
+					On that last point, that's been my experience as well. Staff physicist are given the option to pursue a clinical project every so often, but not expected to do so. Faculty are expected to output a significant amount, typically.
+					In my experience I found that 20-60% is promised and what is discussed during interviews, but what is actually given is more around 0-20%.
+I am a junior applied physics major currently writing my thesis proposal. My program is focused in medical physics and I am also planning to go to the medphy route after I graduate. Can I get some suggestions on what would be a good topic? Currently, I am writing about making a bjt dosimeter but I am not sure.
+	Do you have an advisor that is doing medical physics or medical physics research that can suggest topics? Do you have any interests besides dosimeters? Medical physics covers many topics and there are many, many "good" topics to choose from.
+		I don’t have an advisor yet because I have to show them my proposal first. I am searching topics related to radiation physics but I still haven’t picked one yet.
+			That is interesting, I've never heard of undergrads having a proposal but no advisor yet. The only thing I can suggest is that you pick something that lies in the middle of the venn diagram of A: things that you are most interested in radiation physics and B: things that you know potential advisors in your department are working on. You obviously don't want to work on a topic you don't care about or even hate, but you also don't want to work on something that nobody near you can give you practical hands-on advising with. Good luck!
+What is the career outcome as a Phd  certified MR physicist (ABR or ABMP)? I don't live in the US but plan to apply for a Phd on a CAMPEP program and pursue a career in the field of MRI. In my country I'm familiar with duties and day to day routines of a x-ray diagnostic physicist and Therapy physicist but MRI is mostly an educational or research field and  there's no actual position like therapy physicists available for them in a medical center and there are few of who run QA tests and customize protocols for newly purchased devices all over the country.
+
+And I got my hands on a 2018 AAPM salary survey and saw how few MR physicists were included in there compared with others and the salary was like the least compared with other fields.
+	If you want to make your career as MRI focused as possible, getting diagnostic ABR certification is probably your best bet. Diagnostic physicist positions are typically responsible for multiple modalities, but there are a few jobs that will be mostly MR (typically these will be at large academic centers). Sometimes the job description will be explicit about this but sometimes not. ABMP is very much rarer; it's mainly people who are MRI scientists (doing research) who want to switch to a clinical work, and they are limited to MRI which makes them less desirable to most places that diagnostic ABR holders (like I said most jobs are multi-modal). That's why there are so few on the salary survey. If you are planning on doing a CAMPEP PhD program that is definitely the right track to start.
+I majored in Engineering but have a minor in Physics and some undergraduate research. What are some things I can do to bolster my grad school applications?
+	Take some programming if you haven't already.
+		I agree.  A basic programming course or take on some project that requires you to learn some programming.
+
+My masters program is formally adding basic programming as a pre-requisite.  Some of our courses are computational (MATLAB, Python) - some rad physics, imaging analysis and machine learning.  While they don’t require software engineer/computer science proficiency, some basics or at least the ability to teach oneself on the fly is required.  They tried just suggesting some programming tutorials for the summer between year 1 and 2.  many of my classmates still had to rely on the few of us with some experience to show them how to figure it out.
+	[deleted]
+		I'd would recommend taking these courses first as well and, if you still need more electives, Optics and Biophysics.  These two courses gave me some nice talking points during grad school interviews and some decent, albeit minor, background knowledge for the field.
+	Something that may not bolster your applications, but would be a good idea if you haven’t taken it already is anatomy & physiology!
+		It's actually required by some programs so I'd say it's a very good class to take.
+[deleted]
+	[Medical Physics Match Statistics](https://natmatch.com/medphys/statistics.html)
+
+That gives you yearly stats on number of applicants and number of positions available/filled. 
+
+It does not appear that residency positions will keep up with graduates. There are too many graduate positions compared to the jobs becoming available each year. I know, a couple years back, residency positions were pretty on par with new job openings each year. It seems like more jobs are open now than before just from my perspective. We also had difficulty getting quality applicants for an open position last year. So maybe there is a shift happening now but I’m not sure. I do not think we will see a significant jump in residency positions anytime soon though.

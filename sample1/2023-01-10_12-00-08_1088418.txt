@@ -1,0 +1,37 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 01/10/2023
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Hello,
+
+I am graduating soon with a Bachelors of Science in Comprehensive Medical Imaging. I am also attempting to minor in physics while I complete my radiography program so that I may apply to grad schools very soon. I was wondering which & how many physics classes I should take to make myself a best of an applicant as possible. I know it varies by each college but I would really appreciate any and all information/tips. So far, I have Electricity & Magnetism, Thermodynamics, Mechanics, and Modern Physics on my to do list. 
+
+
+I am not even sure if I would be accepted given my major is not engineering or physics so I am a little worried about this.
+	Generally speaking, CAMPEP-accredited programs will follow CAMPEP requirements (which ultimately help avoid issues down the line for ABR certification). Anything beyond those minimum requirements to apply will serve to supplement your candidacy for the most part. While Im not fully familiar with your program, it sounds like a strong background to have, particularly if your interests are in imaging/diagnostic medical physics (as opposed to therapy, but Id still consider that a stronger background than most). Obviously, there are MANY more factors, and Im not a program director, so take that with a grain of salt. 
+
+A good example is UPenn's official requirements:
+
+>*Minimum of an undergraduate minor in physics or its equivalent:
+
+>A minor in physics, required by CAMPEP, is defined as two calculus-based introductory physics courses and at least three upper-division (junior- or senior-level) undergraduate physics courses.  Upper-division physics courses include Electricity and Magnetism (preferred), Atomic Physics (preferred), Modern Physics (preferred), Quantum Mechanics (preferred), Classical Mechanics (preferred), Optics, Nuclear Physics, and Heat & Thermodynamics. The advanced physics courses should address theoretical principles from a physics curriculum.  Courses that are primarily applied and related to engineering, chemistry, health, or medical physics are not acceptable. 
+
+>Per the American Board of Radiology (ABR), standards for course acceptability are:  1) the course must appear on an official transcript; 2) the course must be equivalent to a standard 3-credit course; and 3) the course must have a passing standard.  It is recommended that you contact the professor of the course to inquire if you are unsure of whether a course meets these standards, or if you are unsure if the course is considered introductory or upper-division at the undergraduate level as compared to the other physics courses offered at the institution.  Massive open online courses (MOOC) such as EdX and Coursera typically do not meet these standards and thus are not acceptable. 
+
+>Applicants may earn the equivalency of a physics minor at any regionally accredited institution.  Transcripts of all courses taken for credit are a requirement of the application.
+
+Hope that helps. Also a good idea to look through CAMPEP's official site to familiarize yourself with all the programs and requirements, as they can vary slightly.
+		Thank you so much for this information it is extremely helpful. imaging/diagnostic medical physics actually is my preferred pathway so this also gives me some hope. Would you recommend a DMP, MSc, or PhD? Which one of these did you do personally?
+I’m currently working on undergrad, and have been researching MP Grad Programs. Is the expiration date of CAMPEP Accreditation for programs a significant factor I should consider?
+	Not typically.  Each program has to go through a re-accreditation process periodically, and that's really all that date means.  I'm not aware of programs that lose CAMPEP accreditation because of missing the deadline.  On CAMPEP's list, there are a variety of little symbols, e.g., star, indicating various programs are in various stages of reaccreditation.
+ Is it worth it moving to the US/Canada with a medical physics career? I’ve been working in SE Asia as a clinical medical physicist for 2 years, and my spouse may need to be transferred there for work reasons.
+	There's a lot of personal context that goes into whether it'll be worth it for you (e.g. length of stay, Canada vs US, current education level).
+
+As with most medical careers, it's unlikely your clinical certifications will transfer so you'll need to consider the cost of redoing the education/training. Opportunities in industry would be more immediately available, but may be different from your current work. I know a couple people without certification working for medphys consulting services, but I'm not exactly sure what they do. They're not making certified consulting physicist salaries, but they seem to enjoy it.

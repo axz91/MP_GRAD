@@ -1,0 +1,28 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 04/26/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+I've recently been accepted to a few campep MS medical physics programs and I'm having a hard time deciding on which ones. Does anyone have advice?
+	Minimize cost and maximize clinical opportunities. Whatever program allows you to do this and you can see yourself living there for 2 years.
+	Should align with your career goals as well. If the goal is clinical, then going to a program with good board prep and success rate is important, as is the residency match rate. In this case, try to maximize your clinical experience during the graduate program. If you don’t want to be clinical, this stuff doesn’t matter as much. If you are leaning industry or ultimately want to end up with a PhD, faculty connections and research history is important so it may not be a bad idea to reach out to get more info. Definitely important to keep your aspirations in mind.
+Hey everyone, I find medical physics super interesting and I would like to go back to school to get an MS and try to land a physicist position one day! I have a physics degree from 5 years ago, but my grades were not super great. For the past 3 years I've been working at a prominent company in the field as a service engineer. This gives me the chance to talk with physicists and residents pretty often, absorb a bunch of knowledge, and see how various linacs are used. Is this likely to help me get accepted, or do they usually look for recent physics majors with straight A's?
+	Having hands on experience working with clinical equipment is definitely a plus. Grades are of course part of the application but they aren't rejecting people who don't have straight A's (source: me).
+	Getting into a good CAMPEP university with low GPA is fine as others have said. Get good letters of recommendation and try to get a decent GRE score (if needed). I would focus on schools with good residency match percentage. That's the bottlekneck for to become a clinical physicist if that's the end goal you want.
+Currently i am in nepal, i wanna pursue ms medical physics in australian university. Should i apply or not, can i get residency after completing course? How hard is to get job after ms?
+[deleted]
+	I have not heard of it happening. If you have an anxiety disorder though you should seek help from a doctor/therapist.
+Any Creighton Medical Physics MS students or recent grads with insights into the program?  How was your experience and success is securing a residency?
+Hello! I’m about to start my medical physics Ph.D. this coming fall and I wanna know what people think about tracks. One day I hope to do a residency in therapy but I really like molecular imaging/nuclear medicine projects for my Ph.D. Will this cause an issue in the future?
+	Most people don't work on their dissertation topic as a primary focus in their post-residency employment. Do a project that is interesting to you and most importantly has good support around it (good PI, funding, etc).
+	Congrats! Your program didn’t make you choose a track when you applied?
+Are there any opportunities for international work after ABR certification? Or does medical physics typically lock you into working in only one country?
+	As medical physicists are somewhat clinical workers and there's, of course, a lot of radiation involved, contries have set rules/regulations for the profession that can impede the "free" movement from one contry to the other. Example: The US clinical med physicists must have ABR certification, and to go to ABR you need CAMPEP and all that, so for an international one would be hard, as it would have to get the CAMPEP certification and go though the ABR process. 
+
+So in short, I think yes, you somewhat get locked in the country you get your education.

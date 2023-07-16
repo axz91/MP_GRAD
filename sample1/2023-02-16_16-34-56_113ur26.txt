@@ -1,0 +1,46 @@
+Post Title: Question about spotting misleading/unlikely job postings
+Post Content: Hey everyone. So I like to browse Indeed and whatever else here and there, just keeping the options open for myself lol. I see a massive range of salaries, and it’s hard to discern what’s likely. I just saw a little therapy physics consulting group posting a position for a full time spot (not contract, not locum), and it said 150-175/hour salary. Are there really run-of-the-mill therapy physicists doing QA on local clinic’s truebeams making $350k+ a year?? Also should note it’s a very average cost of living area that I saw this posted. 
+
+This isn’t the only time I’ve seen this, but I can’t tell how likely this is to be true, or if employers inflate that number to attract applicants and then list a bunch of reasons why they’ll actually just be paying you the average from the salary survey. 
+
+Anyways, would love to hear if you guys have seen something similar, if positions like this are actually out there, or if this is some kind of shitty tactic to attract applicants. Thanks!
+Comments: 
+It's a consulting group. I'd imagine, although you're a full time employee, they're contracting work out to you to pay that rate, and they're taking a cut themselves. It ends up being a raw deal, because you have to pay for all of your standard benefits out of pocket, and get taxed at a higher rate as an independent contractor.
+
+Sometimes you can see inflated salary's in areas where literally no one would want to live, but I don't think they typically get THAT inflated.
+	That seems like a pretty bad way to advertise a salary: “$175 an hour! (But we keep some it)” lol seems like my fear of disingenuous tactics is real. Wouldn’t it make more sense to just post what you’ll actually be paying the contractor, then it’s on the business to sign contracts that will allow them room above the salary to take home? Idk, seems like an odd way to advertise a “salary”
+		I think it would be disingenuous to display the rate they charge the clinics they serve, but that could be the pay rate to the physicist as a 1099 contractor for the group.  That would mean the physicist receiving that hourly pay would have to cover their own health insurance, retirement savings (like a SEP IRA or Solo 401k) and pay full FICA (15%) as well as pay in quarterly estimated taxes and file their taxes with a Schedule C.  It's common that 1099 contractor positions have a higher pay rate than a W2 employee because it puts a lot more overhead and lack of other benefits on the contractor.
+
+I'm not saying that is necessarily what is going on in that particular posted rate, but some speculation on one likely possibility.
+Anecdotal story:
+
+I've worked for a contract/consulting group for 10 years.  I was talking to our front office, and they told of a hospital that was in desperate need for temporary coverage, as their physicist had either retired unexpectedly or taken a position elsewhere.  The standard rate for locum physics (board certified) is apparently around $250/hr.  (!!!!)
+
+Our group provided them with a physicist.  Months later, the hospital had nearly completed their HR work to get the job listed, but was then told that a hiring freeze was being implemented.  The hospital system signed off on continuing the locum physicist, for $250k/hr, for the next entire fiscal year.  Insanity.  Needless to say, our front office is very appreciative of that contract.
+
+In recent years, the physicist landscape has become much more unstable.  Lots of people jumping to more lucrative offers.  So I wouldn't be surprised to see $150-175/hr salary, especially if you're providing your own benefits.  I remember a few months ago seeing a job posting on the medphys listserv, where the title of the post stated $300K+ SALARY.  I think the market is desperate enough that it's more common to see salaries jumping in some situations.
+
+Decent chance that means the position will effectively cover 2 FTE acc to ABR/AAPM/ACR estimates, so please be careful evaluating the workload before being swayed by the salary.
+	I think I saw that $300k+ post you’re talking about. It’s not like it was in the middle of nowhere, it was Tampa. It didn’t smell right. Even if the number is real because of the client’s desperation, I don’t know that I want to walk into a situation like that with long-term aspirations. Maybe treat it like a locum and be pleasantly surprised if it actually works out?
+		That's the job posting that I was referencing in my post above. I investigated it a bit, and it was a super shady setup where a "physicist" sat atop a stack of contracts and did zero work and siphoned 25%-50% of the money while forcing the employees to act as independent contractors.
+			Okay this is kinda wild.. my post was about a “physics group” in Tampa.. hmmm..
+				Hey I could be wrong, it's worth investigating in case I have a wildly wrong interpretation.
+				It’s probably the VA contract.  It’s good for 5 years, but you’re paid as a 1099 worker. Once you subtract out vacation time, employer social security, and all of the benefits a salary job would pay, you’re getting a lot less (but still a decent amount).
+			Sounds like a recruiter 🤣
+Varian has been posting normal clinical physicist jobs at $280k+, so $300k is a little high, but not outrageous. $350k seems unlikely.
+	Where do you see the Varian jobs with salary defined? Are you on their website or elsewhere? When I look at their site it just links to some external site that lists the job with a huge salary range
+		They generally list $160-280k, but also list a similar experience range (Part II MS to highly experienced PhD). 
+
+Edit: 
+I just had a recruiter hit me up today for a different normal job paying $290k.
+This is likely just a 1099. After having to pay double tax, healthcare, eye/dental, insurance, no 401k match, etc 1099 you can reduce 30-40%. Id say it's around a $200-$240k equivalent salary at a clinic FT.
+More likely they clicked the wrong button and it's 150-175/year, or as others have said that it doesn't include benefits.
+
+Or it's a really desperate place in MS.
+	150-175k/yr is horrible. It's more likely to be per hour
+		I guess it depends on experience. Are people getting more fresh out of residency? I did not see the posting. Not sure what it was asking for.
+			I made 145k straight out of residency more than a decade ago. Salary increased to 175k after board certification- that was a decade ago
+				Found the listing, it's not entry level, but damn. 312k+ is a lot. Saw another listing also experienced for 275k+, but many more that were like \~160-205k/yr for a senior, like one in Miami. Seems like the range is all over the place. No wonder places can't find physicists when they're only offering what's in the salary survey. That thing needs an update apparently.
+I'd believe that they mistook the "per hour" field for a "thousands per year" field. Been indeeding myself on and off for years now and I've seen it happen. You can always contact them.
+Keep in mind, you might also be responsible for taxes, health insurance, and retirement.
+That’s probably for your billable hours as a consultant. So you’ll travel to a clinic work 4 hours at $150 an hour and travel home. If that’s a 12 hour trip then you made $50/hr total.  If that’s a 24 hour trip… you might get a $50 to $70 per diem to cover meals.

@@ -1,0 +1,80 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 12/13/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+Hello! I am a high school senior currently applying to colleges, and I'm very interested in medical physics! With the end goal of becoming a medical physicist, what are factors I should consider for selecting an undergraduate university? Is student loan debt a common problem for medical physicists? Does undergraduate university prestige influence admissions into graduate programs at all? Thank you for your help!!
+	I’ll preface this by saying I am just a grad student who is not involved in the application review process but I have talked with some of my colleagues about this stuff and gone through the interview process. 
+
+The prestige of your undergraduate school doesn’t really matter as much as people think. My program has people from small liberal arts colleges as well as highly rated research universities. That being said, it’s typically what you do at your school that sets your application apart (typically research projects, internships, shadowing) and it is possible higher ranked schools have more opportunities, but your future won’t be ruined if you don’t get into an ivy. I personally would look for a school that has a reputation for undergrad research, pros if it’s in cancer, imaging, radiation sciences, or other related fields. It is rare (from what I’ve seen) but some schools do offer undergraduate degrees in medical physics. 
+
+Student loan debt is an issue for everyone, however the medical physics field pays quite well and most people I know in the field suffering from student debt aren’t quite as worried about it as some other fields. That being said it is still debt and money you most likely will have to pay back so i would factor cost into a decision of undergrad schools. 
+
+I am still fairy new to field so I hope someone corrects me if I said anything egregiously wrong but feel free to reach out if you have any specific questions!
+		Thank you so much!
+	People on admissions committees feel free to correct me, but I do not think that you should choose an undergraduate school based solely on going into medical physics. Especially for entering the field of medical physics, undergrad is 'what you make it'. Shadowing, research, actually knowing what medical physicists do and a commitment to our field, these are the things that I believe an admissions committee wants to see.
+
+For what it's worth, I did not go to a "big name" school, but I went somewhere that was rigorous, had supportive faculty, and was affordable (due to location and tuition scholarships). After I had started undergrad, I pursued shadowing opportunities at my local cancer center. I was successful in my graduate applications and managed to get into my top-choice graduate program.
+
+You might consider the [AAPM Summer Undergraduate Fellowship Program](https://gaf.aapm.org/). At this stage, you have a lot of time to gain experience and prepare an excellent application for it. It would only comprise part of your CV, but the experiences gained and possible references you may get from doing that program are highly valuable. Not to mention, it shows initiative for applying for awards and an interest in AAPM.
+		Thank you so much!!
+what do you think is the most important factor when applying for medical physics therapy residency positions? Location? Size of clinic? Equipment?
+	Environment. Residency can be exhausting and tough sometimes — that part is pretty much unavoidable. But working with good, kind people who prioritize your well-being makes all the difference. I’m a resident at UNMC and the folks here are amazing. I was burnt out from my PhD work, and the physicists here rebuilt my confidence and helped me flourish. It helps that we aim to keep our work hours down to about 45 hours per week!
+		This is very heartwarming.
+		So true. Everywhere I interviewed I asked the staff about their work life balance. If they struggled to answer that confidently or positively it was an instant red flag.
+I will start interviewing soon for a job. I will try my best not to fall into a toxic environment…
+
+For those with lots of experience, what would be good questions to ask in interviews regarding work atmosphere?
+	Others may disagree but I ask very specifically about work-life balance and I’ll try to gauge if current staff seems burned out. I also look into what tools they use to increase efficiency like ClearCheck or QA tracking etc. I’m not a big fan of checking little things that software can quickly identify. 
+
+Some clinics are very nice and will give you comp time if you need to come in to do an annual on the weekend. However, I’ve never had that perk personally. I’d ask about regular work schedule, how a site/group schedules tasks out, what time patients typically start/end for the day. It’s also good to see what the makeup of the rad onc team is. Smaller teams tend to have physics partially manage IT and data. If that’s not your thing, you may want to find a job with dedicated IT team to handle that.
+		Thank you! This is really good insight!
+
+Hi all, just started a degree in medical physics. We’re covering Radiotherapy concepts. But the lectures feel very condensed and vague. Any literature recommendations please?
+	The interactive videos by Eric ford were very helpful when i started. Just google “primer on radiation oncology physics eric ford”
+
+The 2 books on radiation therapy and radiation physics by khan are also very good
+I'm a theoretical physics PhD and I'm slowly getting interested in medical physics. Suppose I would like to get into medical physics after I graduate in my field, what should I do?
+	The path will depend on where you're located.  If you're in the US/Canada and looking to get into clinical MP, then what /u/kermathefrog said.  If you're elsewhere in the world, then the path will be determined by whatever the MP certifying body (if any) is.
+		Thank you very much! I am indeed based in the US.
+	The route into med phys academically for you would be to do a CAMPEP MS (2yrs) or certificate (1yr). Try to get some shadowing exposure in a clinic or with some physicists near you to get a better idea as to what it's like.
+		Thank you very much!
+One thing to consider is if the university offers any medical physics courses to undergrads.  It’s probably not that common and most students in grad programs have no UG medical physics experience but it is something to look for. That way, you can try it before you commit.
+Is it possible for a Radiation Therapist to move into medical physics? Im asking because I am very interested in the field
+	One of our current residents was a RTT. Got her master’s remotely via Georgia Tech.
+		Multiple people in my GT remote class are RTT>Dosi>MP, seems quite common.
+	I wouldn't waste your time, I'm considering going the opposite direction. Getting a residency is near impossible
+		[https://www.campep.org/2021AnnualGraduateReport.pdf](https://www.campep.org/2021AnnualGraduateReport.pdf)
+
+This data comes directly from campep, check out page 17. 78% of MS applicants got into residency last cycle. Getting residency isn't a trivial matter but "near impossible" is hyperbolic.
+			Well idk I graduated in 18 and had countless interviews and still haven't gotten one so...and these people that match at least in some of the real life experiences I've had are so far beyond qualified that nobody can really compete just having a MS. There was someone in my last cycle of disappointment in a group interview who had two doctorates and co authored a med phys textbook for instance. Someone who just completed their masters program at a shit tier school like me who didn't write code for the large hadron collider or something is very unlikely to succeed from my experience.
+				Literally nobody in my cohort that matched (or my current colleagues) comes even remotely close to that description. In fact my undergraduate grades were subpar and gradschool was good but not perfect. My research experience wasn't anything out of this world and, while more than the average MS applicant, significantly less than a PhD candidate. I matched to a great place for ONE main reason: I interviewed extremely well (confirmed by my interviewer). The paper (which doesn't need to be crazy impressive) only gets you the interview, its you as a person that gets the job.
+					Cool I'm glad for you. Literally only one person in my cohort matched at all. Not everyone interviews well.The fact remains there are way overqualified people gunning for the same entry level position as the rest of us.
+	Depends on the program you ll apply but most likely you will want to complete prerequisite courses and then go into the masters. Another thing to consider is residency. I would talk to your local physicist. It would be great if they had a residency where you work and you could get some sort of reassurance that you ll get in as a resident. Another thing to look into is becoming a CMD, a dosimetrist. Best wishes!
+What are tasks that medical physics residents are allowed to do on their own? Does it vary by year?
+	It does vary by year, but mostly as you get more stuff done... As soon as you show competency in a subject you'll be able to do stuff with little to no supervision (at least this is how it works for me and other residencies I know)
+	Similar to what others have said, at my residency you are allowed to do more tasks independently after you have completed the relevant competency.  These competencies are normally built into related rotations, but a couple of them you just need to prove that you are capable of doing them once you gained enough experience.
+
+From a therapy standpoint, in the last six months I've been cleared to do IMRT QA, SRS QA, Monthly QA, TG-51, and 3D Treatment planning.  All of my work is reviewed by or performed alongside a board-certified physicist, but by my second year I will be expected be able to perform the majority of the clinical work independently.
+	Therapy or imaging? Also the state regulations might change what an unlicensed physicist can do.
+
+I'm in a 1st year diagnostic residency and I can test pretty much any radiographic and fluoroscopic x-ray equipment by myself. About six months in so far. Training in ultrasound now. I am also in the process of finishing my mammo certification to test mammography units solo. What I can’t do solo is CT, MRI or nuc med equipment testing solo. That's due to ACR regulations that require 3 years of experience/training. Technically all my work is reviewed by a licensed physicist. 
+
+Hope that helps.
+For those of you starting to apply for residency, there is a communal spreadsheet to keep track of program information.
+ https://docs.google.com/spreadsheets/u/0/d/1hnH_EhopdAqZ0DTg9eyX66E4_g5uCCsH5uwIxmKfZ0k/htmlview#gid=1533941002
+
+Best of luck!
+Is there a huge difference between clinical medical physics and radiation oncology? From my understanding, medical physics has more physics involved and you work with more technology but what are the differences in career life and job culture?
+
+  
+I have been intrigued with medicine for a while, but when I discovered a passion for physics, kind of gave up on that idea. Not sure what I want to pursue (still in second year of IB at the moment), but I have applied to courses in Canada relating to Biophysics. 
+
+  
+Haven't been hearing awesome things about career prospects and the PHD requirement with really low residency and job acceptance rates in Canada. Would picking one over the other be more beneficial in the long run? I definitely have a passion for both medicine and physics- I definitely have more of a background in physics at the moment (doing HL phys and chem), but I also really want to be realistic and the thought of having really low prospects gives me major anxiety.

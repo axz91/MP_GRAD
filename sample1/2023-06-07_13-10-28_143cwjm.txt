@@ -1,0 +1,81 @@
+Post Title: What are your job interviews like?
+Post Content: I studied Statistics and CS in undergrad and have been working in software development, BI, data engineering roles since and I am fed up with the interview processes in this industry. Multi-round technical interviews just to have companies ghost you, having to prove your competence every time you get a job, the fact that “software engineer” and even “data engineer” are very squishy titles. 
+
+I’m thinking of going to grad school for medical physics. There are two CAMPEP master’s programs in my metro area and a lot of major hospitals. But I want to know, is your interview process anything like the process for CS?
+Comments: 
+I've only had a couple of job interviews in this field but they've gone something along the lines of a sales pitch by the hiring company to try to get me to take the job,  no technical questions for me at all.  They might ask about your experience like what machines you've worked on or what software you've used.  If you've got the degrees and credentials, that's pretty much all you need.  It's much, much more of a hunt for a personality fit in this field from what I've experienced on both sides of the hiring process.
+
+I will add,  this applies to job interviews,  NOT residency interviews.  I can't speak to those.
+	It’s pretty similar for dosimetry jobs. When I lived in a major city, job interviews were more like real interviews where they’re looking for competency and experience as well as personality. But when I moved back to my rural home state, where they have more problems finding candidates, the job interviews were much more like recruitment pitches than anything else. They were trying to sell me on taking the job and working with them. It was a strange experience but now that I’ve worked here a while, it makes a lot of sense. It’s just hard to recruit people to come here to smaller towns and work in a community hospital setting.
+
+I will say, the pay is excellent compared to cost of living. Like… 10% less annually than what I made in one of the most expensive cities in the country, and my cost of living is waaaay lower here. The amount of negotiating power people have is tremendous.
+
+For anyone who likes living in a smaller town, there are some good opportunities out there to get paid very well relative to COL.
+As someone else mentioned the hardest part will be getting into a residency. Many of them prefer PhDs these days. It’s unfortunate but that’s the game today. You say you studied CS. What is your degree in? You will likely need all three calculus courses, all basic physics, and some junior senior level physics courses. Physics I and II won’t cut it.
+
+As for interviews, the hardest interview I had - mid 90’s - was getting into grad school when some professor/physicist jackass told me to go into service for the machines. I didn’t follow his dumbass advice. As the Jolly Ninja said, practically all of my interviews were a formality where they were trying to sell themselves as much as they were looking at me. With the job environment these days I wouldn’t expect that to be any different as there are sooooo many job openings. 
+
+Let me add a piece of advice though. Please do not go into this field just because you don’t like the interview process. We, Physicists, are directly responsible for the quality of radiation therapy treatments. While on a daily basis it isn’t that difficult it is a tremendous amount of responsibility and we simply do not need people who aren’t totally committed to ensuring patients are treated properly and accurately. 
+
+That being said, Medical Physics is a GREAT field to be in. You have a fairly high salary, a decent amount of respect, in general, and a good work environment. There are some long days and difficult situations but it has been a wonderful career choice for me.
+	I studied statistics with a CS minor. I took Calc I-III, diff eq, CS classes up through Data Structures, Linear Algebra and various statistics classes. 
+
+I think I have a lot of the pure math and programming classes that a physics major would take, I just need to do the actual physics. Haha.
+		That sounds good. Yes, I would suggest taking some physics and maybe even see if you could shadow a medical physicist for a couple of weeks. Just see if it’s something you would like.
+I am in the graduate school part of the process, so I can't speak directly to interview experiences. 
+
+What I can say is that the field of medical physics is fairly niche as many people have not heard of the field. The process of becoming board certified as a medical physicist is not easy. The hardest part, in my opinion, is finding a residency position. Currently, there are roughly 120 residency positions open every year. So IF you can get into a graduate school and IF you can then get into an accredited residency, it is generally considered a good field to be in. I personally have not met a single person who has not had a job offer before they graduated residency. 
+
+Also, speaking to your background. In order to attend a CAMPEP accredited graduate program (a requirement for residency and board certification), you need at a MINIMUM what is considered to be a minor in physics. But it is generally advised to seek a bachelor's in physics or a closely related discipline (nuclear engineering, biotech engineering, applied physics, etc), which are some I have seen. According to your post, you studied statistics and computer science. I'm going to assume you took no upper level physics classes for these degrees. Most likely, you would need to go back to college to at least get a few more physics classes, and even then, you will be up against competitive applicants who have more physics background than yourself, I assume. 
+
+TLDR: Job prospects are pretty good in this field. Many people I know have job offers before they finish residency. But given your background, it is likely you will need to go back to school to move forward on this path.
+	I’m planning on taking physics I & II with Calc and the labs, along with astronomy. I was also going to retake diff eq and that should give me enough credits for a minor. All of the programs that I was looking at said they have partnerships with area hospitals and health centers. [Here](https://physics.fau.edu/programs/psmmp/index.php) is one program. How is that different from residency?
+		That's a pretty light physics minor.  Grad schools are going to want to see some upper level courses like E&M, quantum mechanics,  etc. I'm not saying you won't get in,  but you might have a high bar to clear.  My grad program (ECU) has a physics competency exam you had to take in order to get any flavor of physics MS from them,  and it was pretty comprehensive to what you study in undergrad.
+			I got ya. If I have to take a few more classes I’ll take a few more classes.
+			ECU grad here as well!
+			It's required by CAMPEP to take 3 upper level physics classes, not just preferred. While a very, very select few programs may humor your application without those, it will be very challenging to earn acceptance and you'd have to make them up during grad school (which sounds rough). /u/o_safadinho :
+
+> Students entering a medical physics graduate educational program shall have a strong
+foundation in basic physics. This shall be demonstrated either by an undergraduate or
+graduate degree in physics, or by a degree in an engineering discipline or another of the
+physical sciences and with coursework that is the equivalent of a minor in physics (i.e., one
+that includes at least three upper-level undergraduate physics courses that would be required
+for a physics major).
+
+> 3.2 If a graduate program conditionally admits applicants with deficiencies in their academic
+background, the remedial physics education of such students shall be well-defined.
+				Thanks,  very informative.
+		[Here](https://www.campep.org/ProspectiveApplicants.asp)
+
+Are the requirements direct from CAMPEP. In addition to the courses you have listed you will need to take at minimum and additional 3 upper level physics courses to be eligible for a minor.
+
+
+Many graduate programs take place within hosptials, just because programs have partnerships with hospitals does not mean that program is a residency. It is likely that they offer opportunities to gain clinical experience. This is not the same as a CAMPEP accredited residency program. This step is entirely unavoidable. You must go through a graduate program and then complete a residency. 
+
+Additionally it is not wise to attend just any graduate program you can get into. I would advise you to look at different programs and compare their residency match rates. As some programs are more successful in matching graduates to residency positions. Some good ones I know off the top of my head are LSU, Kentucky, Vanderbilt. Those all have very high residency match rates. Keep in mind that if you graduate from the program and can't get into a residency you are stuck for a year until you reapply for a residency (some people work as medical physics assistants) but I don't think those jobs are very common.
+			I was looking at their numbers and it looks like all of their graduates either go into PhD’s, some residency program or get a “clinical position”. Last year they had 4 graduates and 4 people go inton residency. They have their numbers [here](https://physics.fau.edu/documents/psmmp-statistics-2010-2022.pdf) are these numbers good/normal/etc.   But it seems like going into a “clinical position” without residency is pretty common with this program at least.
+				I'm looking at their data, and sometimes it can be hard to interprate, so anyone correct me if my takeaways seem wrong. 
+
+Prior to 2016, this program was not accredited, so we have no data on residency match rates. 2016-2022 45% (14/34) graduates have been placed in residencies. This is not really a good figure.
+
+Now, I am assuming that every graduate applied for a residency and the ones that didn't get into a residency attained a clinical position as an assistant or some other sort or chose to advance their degrees. But it is also probable that not all graduates applied for residency (Personally i cant see why you wouldnt at least try to get into residency) it's hard to draw conclusions without an applied to residency stat as well. But as it stands with the above assumption that every graduate tried to get a residency, less than half are successful over the last 6 years. (Although it is trending up) 
+
+Additionally, it is required by CAMPEP to have 6 hours of Anatomy and physiology as well as undergrad, so you may have to take those courses as well. At least, that's what I was told when going to my graduate program.
+My interviews were a day-long process with ~1hr 1:1s with physicists, physicians, lunch with the department.  Mostly personality checking and sharing how the department does things (because technologies and brands, types of special procedures, preferred methodologies etc. differ from place to place).  One of these interviews had a 1 hr panel style session with technical questions along the lines of "what would you do in this situation."  Mostly the vibes were trying to sell the department as a good place to work.
+Also, make sure that program you linked to above is CAMPEP accredited
+	The program is accredited.
+One zoom interview. One face to face. No ghosting.
+Grad school for 2+ years, tuition, residency for 2-3 in a different career because you don't like solving leetcode problems and getting ghosted? Sounds like a very bad idea. 
+
+Tech is frustrating in many ways but medical physics isn't as wonderful as it's made out to be.
+
+If you hate dealing with tech companies why don't you try working for yourself as consulting dev and see how you do?
+	I’ve thought about it and yes, I am willing to do this. I have zero desire to stay in this industry.
+[deleted]
+	The annoying part is when you do well and pass the multi-round technical interviews and they still ghost you.
+		[deleted]
+			Fuck that, I’m tired of this shit. I’d rather just do a grad program, go through residency join a profession that has a cartel on a title and have people assume that you’re competent from the start.
+				Oh man! I really wanted to read what it said on that deleted post!
+				I've been asked technical questions and don't get offended by it.
+
+I've met enough incompetent physicists that I'd ask some technical questions. I don't care if they get the right answer as much as they can think through it and don't look like a deer in headlights.

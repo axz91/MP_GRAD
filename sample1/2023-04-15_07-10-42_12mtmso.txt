@@ -1,0 +1,37 @@
+Post Title: What kind of industry jobs are there?
+Post Content: Undergraduate student here with 1.5 years left in physics. I’ve been doing more research on indeed and on here, and I would like to know what type of work industry jobs are involved with? I hear a lot of people do coding, and I’m not really interested in that, are there other types of work out there that’s not necessarily research either?
+Comments: 
+There's a lot. The main companies are your enormous imaging OEMs (Phillips, Siemens, GE, OEC, etc) big linac OEMs (Varian, Elekta, Accuracy, etc) and QA companies (SNC, IBA, PTW, etc). Generally they hire physicists for product support, R&D, and QA. 
+
+My favorite experience thus far though has been in a startup, where I have to do all of the above. Just note that in general, the pay is less than it is in the clinic.
+	Out of those 4 categories of industry jobs, which one pay the most and is each one of those concentrated in a certain area of the country? Also which one of those will allow me to work from home more?
+		1. Management pays the most, R&D probably is next after that, but it varies.
+2. Big cities generally. 
+3. Computational R&D
+			I see, thanks for replying. I guess my interests really require me to be at the manufacturing site anyways. But I’ve heard that QA jobs can provide you with traveling, which doesn’t seem all that bad.
+				In my direct experience with traveling for work: 1) some people love it (particularly those who are young, wo kids, and other obligations), others don't, and 2) it really depends on where you're traveling to, and with who.
+					1) Sounds like me 2) hopefully I’ll end up in Florida or somewhere scenic
+						SNC is headquartered in Melbourne, FL. Not sure of any others in FL.
+							I saw a few job positions in Tampa, but didn’t look into them very much
+Others have answered your questions well.  I feel an important detail has been left out though.
+
+Industry jobs are a VERY small percentage of medical physicists.  They are wonderful jobs, and I know people who have them, but there just aren't very many.  The most recent data I could find suggests about 2.5% of medical physicists are in regulatory and standards (government), and 2.5% work in product R&D or support (industry).  The vast majority of medical physicists are clinical or academic/clinical hybrid.
+
+In addition to this, many (not all) of the industry jobs prefer physicists with clinical experience.  I've heard this from many people in the field, but looking at our professional survey data shows evidence too: the median years of experience for physicists in regulatory or industry jobs is higher than that of the whole profession.
+
+What makes you interested in the field, or industry jobs in particular?  Are you opposed to clinical work?
+	Not strictly opposed to clinical work, but I suppose I see my talents and interests being used in industry more than clinical. I suppose it’s the flexibility of the job, and developing new advancements in the field.
+		For the new advancements thing, a lot of that is done in the academic world.  There is a significant amount of medical physics jobs in academic hospitals, involving a split between clinical work and pure research.  You'll need to have a phd to be eligible for those.  This work is typically farther upstream of the final product - you're researching what will work and how, and then companies can choose to implement it.  Much of that implementation work is done by engineers, which is probably why they only hire a few medical physicists.
+
+I just want to make sure people are informed about the market.  If you invest a lot of money and time in a medical physics degree, you should be open to clinical work.  If you only want to do product development, there are other degrees focused directly on that.
+			What about R&D like others have mentioned?
+				It's there, but less than 2.5% of the workforce.  The survey doesn't even break it down as its own category, that 2.5% includes people who provide phone support and training.
+
+Unless we're talking research at a university - there are plenty of jobs that do that, but you're not in industry working on final products.  It's mainly proof of concept of new ideas, publishing papers, presenting at conferences, that sort of thing.  Good stuff if you're into it.  A good chunk of those people are part time clinical too.
+					I guess what I’m asking is how much research is there in R&D in industry compared to academics?
+It's not exactly medical physics but a lot of people interested in this route who don't go clinical end up as radiation safety officers or health physicists. You could give that a search.
+	I have seen a couple of those postings, doesn’t seem as exciting as the other jobs I’ve found. I have seen some regulation jobs though working for the government which seems interesting
+		Im a health physics masters student atm and some of the regulatory work looks boring. But there are some interesting health physics jobs for sure. Id recommend looking at national lab jobs. They pay pretty well, have great stability and amazimg retiremenet benefits. I know PNNL has an opening for a senior health physicist right now for pay up to 193k and a pension. From what I have heard national lab positions are more interesting than standard regulatory work.
+			Can you explain what these national lab jobs do?
+I've run into a few sales reps over the years that were originally physicists.
+I think lots of people go into health physics, or work at the main manufacturers of linacs and imaging machines as service engineers

@@ -1,0 +1,35 @@
+Post Title: Future as a Medical Physicist.
+Post Content: Hi, I have completed my Master's in medical physics from India, along with a year of internship followed after. Currently, I am working as a Medical Physicist at a hospital for the past six months. I have published a research paper as a second author and am currently working on one. 
+
+In the future, however, I wish to relocate abroad ( Europe, states, Australia, NZ) and pursue a PhD. What is the probability of acceptance into a programme and do I need to redo an accredited course in Medical Physics?
+Comments: 
+I’m not sure about Europe, but in Canada, the US, or Australia, credentialing is narrowly defined. You need to have done the classes there, and take the exams there.
+
+But the classes arent the longest part of a PhD. And it’s a good review - you can never understand your field too deeply.
+
+I retook some classes when i did my phd and I don’t regret it.
+	The course needs to be a CAMPEP accredited?
+		In North America, yes, to take the ABR or CCPM exam. In Australia the same, but your institution must be accredited by the ACPSEM. You can find more by googling “australia medical physics board certification” or any other country you’re interested in.
+
+Canadian/American certification is recognized pretty much worldwide. Americans recognize only themselves and Canada. Canada will recognize Australia, but the US doesn’t seem to, for instance.
+			I think Canada usually recognizes ABR accredited physicists. Every place I have talked to in Canada had no problem with hiring American DABR physicists
+				Yes, I expressed myself poorly - i meant the US doesn’t recognize the Australian board but Canada does. I reworded
+In the UK there's a \~20% staff deficiency. Jobs are posted ***constantly*** with some just not getting filled and lots of positions are getting filled by someone who can't actually do the job just yet but will take the position on a slightly lower salary and get trained for a few months/year, whatever. It's in a mild state of crisis. 
+
+You can earn >2x more in USA though. I don't know anything about AUS/NZ. For the European countries you need to speak the language.
+	Thanks for the information
+You probably will have to redo some courses for a CAMPEP PhD in the US. My program previously would consider outside courses from non CAMPEP degrees to compare the syllabus and see if they were equivalent. Unfortunately CAMPEP/ABR seems to be more strict so it is rare to see these courses bypassed anymore. If you know the material it should be relatively easy and you can consider it practice for qual exams and ABR. The year of courses will give you time to sort out your PhD proposal.
+	Thanks for the information!
+Oh me too lemme know if you find any except I'm still in my second year with internship beginning in a month, do you know some hospitals in India where I can join for internship?
+You can do a PhD in medical physics in the US without taking the CAMPEP required courses, however if you want to work clinically you’ll need ABR certification and and to complete a CAMPEP accredited residency which requires a CAMPEP accredited degree. 
+
+If you want to go into industry or academia there are a number of US programs offering PhDs in med phys without a CAMPEP track.
+	That’s great to hear
+	The academic programs I'm aware absolutely require ABR certification.
+		Nah ABR cert is only required to work clinically. You can be a professor or work for a company like GE or Siemens without ABR certification. 
+
+CAMPEP lists programs on their website that have a non-campep degree track option for medical physicists who know they never want to work in a clinic.
+			All the faculty I know are clinical faculty.  I suppose there are research faculty at some places.  Though one can work for a vendor without board certifications, I've also seen vendor job ads that specify they only want someone with board certification, so it varies.
+				Right, employers can specify that they require board certification, but it’s not required, and many companies have positions for medical physicists without certification. 
+
+As for academia, it depends on the institution. Wisconsin for example has a large pool of med phys research faculty who have never worked in a clinic and do not have ABR certification.

@@ -1,0 +1,77 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 01/25/2022
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+About to graduate with my MS this semester, pretty sure I'm not matching for any residency programs, only got one interview out of all the places I applied to and I got ghosted for the second interview. How does post match work? Is it just sending emails once the matched/non-matched programs come around?
+	Please crosspost to the residency sticky, thanks!
+is anyone here a current PhD student at duke and could answer some q’s I have abt the admission process? :)
+Which masters and DMP programs typically get back Quickest?
+	Vanderbilt was the fastest master's program to get back to me. Didn't apply to UBC Vancouver, but they've also sent out interviews I believe. The PhD programs have been the quickest at sending interviews (at least for me)
+I currently just graduated with my B.S in physics. I have done two nuclear physics REU’s and am becoming more interested in health physics and possibly the medical physics field. The only thing is I really need a job before I were to continue school right now, due to financial issues. What kind of job should/could I be searching for based off only having a B.S?
+	[deleted]
+		HAve you looked into data science?  A BSc with good undergrad data science experience would easily command a $80-100K starting pay ! Med phys training is way too long (5+ yrs with no guarantee of getting into residency etc)
+		Thank you for the information and advice!
+		Hi, can you extrapolate on a good bit over 100k for MP? I’ve been browsing this sub quite a bit and it seems like it’s heavily dependent on certification, correct? Like 120 without, 140 with and it keeps expanding from there?
+			Something like that AAPM has data on it. A Msc without board certification comes out of residency making around 100-150k depending on location and how good the person it. With certification salary usually increases by 10-20k, or around 10% of salary prior to being certified. Also, it's more usual to MedPhys in the therapy side of things to make a bit more than imaging physicists, but the price is work life balance which can kinda suck for some therapy physicists
+				I see, thank you very much!
+	Working as a medical physics assistant pays average ~~$70-80k~~ $45-50k based on a quick google search. This would get you in a department working with physicists and dosimetrists to see if you like the type of work they do. You'll be doing a lot of grunt work but you could make some valuable connections and references for down the line. I don't see a whole lot of these posted so I think its best to reach out to rad onc departments and see if they are looking or willing to hire an assistant.
+
+That being said, I agree with u/Dosimetrist1 on just getting the debt over with while you are young. My student debt was terrible but I'm glad it was just one time. After I finished residency, I just continued living like a broke student (because $100k+ debt is broke anyway) until I paid them off. Didn't take too long and it was easy because I never had to lower my lifestyle to make payments. I just continued living like I always had!
+
+Plus, if you were to start a program now, you are looking at 5-6 years minimum until you are board certified. I personally wouldn't want to put off that point in my career any longer than I would have to.
+
+&#x200B;
+
+edit for correct salary range
+		[deleted]
+			That was just the top google result. I'm not fortunate enough to have a medical physics assistant where I work so I have no personal insight. It did seem high. I thought it was closer to resident pay to be honest around 45-50?
+				[deleted]
+					That probably is more accurate. I literally googled it and looked at a top result only. It also makes more sense given the experience and education requirements. Not a bad amount of money at all given everything...
+			Lol bro I'd hardly call assistant work unskilled labor.
+		Wow, thank you so much! I find this info extremely helpful  and appreciate you taking the time for my question!
+Q1. Residency applicants who submitted their applications in December of 2021, have you heard back from the programs you've applied to?
+
+I haven't received any reply yet. I think it might be due to one of the reference letters for my application being submitted only a few days ago (which was my fault for being preoccupied with current job and failing to stay on top of the letter status). 
+
+Q2. Would it be proper to inform the individual programs that I've applied to, that my last letter has been submitted? I don't expect them to go back to reviewing if they have already past that stage. So I wonder if it would be worth it to let them know. 
+
+I am honestly not sure if I should just be preparing to try again next year. Best of luck everybody!
+	Hey I just want to give you a heads up that there is now a separate residency sticky and people should direct their questions related to residency to it.
+	I'm an average MS candidate from a CAMPEP program (50% match rate) and have had 1 interview invitation so far. My friend who is the top of the class has had 2 so far. Either we're all working at McDonalds or the match is taking longer this year than usual. You still have a shot.
+
+Q2: In my unqualified opinion, I would let them know. It shows initiative about fixing a mistake and that you aren't just lazy about getting 3 letters of recommendation or something. I would also imagine the letters of recommendation become more important after interviews anyway to decide between close candidates.
+	I’m from a program with a good match rate history (>80%) and, of the ~25 programs I applied to, I’ve only heard from 5 or 6, many just this week, with interview decisions.  A couple more programs sent general “we’re reviewing apps” emails to all applicants.  Some of my classmates got decisions weeks before I heard from them, so perhaps many programs are just informing applicants as they slowly roll through applications.
+Review my shortlist.
+
+Hi!
+So I’m from India, did undergrad in Physics ( 3 yrs ) from Calcutta University(QS Asia Ranking 154) now doing data science from IIT Madras(QS Global 255).
+
+GPA: 3.3
+TOEFL: 110
+
+I’ve founded a company on ed-tech domain. No research experience but I’ve done projects like 3D brain image segmentation with DL etc stuff. 
+Applied:
+Hofstra
+Duke
+Georgetown 
+Purdue
+
+How did I do?
+Does anyone have opinions/experiences with UW Madison faculty or interviewing for their PhD program? I have five interview slots there on Friday and would like to see if anyone has any thoughts on them or know what to expect in their interviews
+	UW, like most places, will generally just be trying to see if you're a good fit.  They'll ask you a lot of questions on your research (if applicable), so be ready to give succinct and clear answers.  
+
+Other questions will be on your clinical background.  Be ready to discuss any equipment you've worked with and machine/patient QA you may've shadowed.
+
+Finally there'll probably be some general knowledge testing.  For example, they may ask how a linac works, the basic construct of a farmer chamber, or how you would survey for radioactive seeds.
+
+Like others have said, go in planning to interview them as well.  Have questions ready about the rotation structure, machine and patient QA expectations, and...if we're talking about Madison, ask how much snow they've had.
+		Thank you! I’ve actually already finished 4/5 of my lab interviews there. One more to go tomorrow, but will definitely keep this in mind!
+	[deleted]
+		Thanks! Definitely getting my own head because of the number of people it seems like they’re interviewing this year. I know they ~probably~ won’t expect too much detail considering the interviews are only 20 mins long. I see from your profile that you’re also interviewing at Madison, so good luck!!

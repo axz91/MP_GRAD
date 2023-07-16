@@ -1,0 +1,27 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 08/17/2021
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+How hard is it to get into a residency program nowadays?
+How open is the field to older candidates? I'm looking into a career change from control systems in the oil and gas industry. Realistically I'll be about 40 at the earliest that I could complete a program. Is MP an option worth exploring or is this a young man's game?
+	I went to school with people in their 30s/40s. If you can get into a quality program with good residency match rates, you will be fine. Just be aware you will need the equivalent of a minor in physics to get into a program.
+		Yeah, my BS is in math with a couple physics courses, but not a minor. Picking up a few more would be a good brush up on the math for me.
+If I were to do a residency overseas(so no CAMPEP accreditation) how hard will it be to find a job in the US/Canada? I'm thinking of doing a residency program in my home country and working for a few years as a medical physicist but want to be open to immigration since my partner wishes to do post grad in the future.
+	Impossible to get a board certified job with your current credentials
+		So I can apply for a job in the states as long as I pass the abr? Is the exams for this certification in person or online so I can take it halfway around the world? Also do other countries like Canada of aus and nz have similar certifications?
+			Some industry jobs don't require ABR certification. On the therapy side, think linac, TPS, and QA software vendors. But to work in the clinic, board certification is pretty much always required.
+			You can’t board the abr unless you’ve taken a CAMPEP accredited graduate program (PhD, post-phd certificate usually for one year, or masters degree) which is fairly easy to get in to but time consuming. Then you have to get in to (very hard) and complete (2-3 years) a residency program.
+When it comes to undergraduate degree, is a BA seen as unfavorable compared to a BS in physics ? I have switched my major pretty late and it would take me about 2 years to complete the BS and 3 more years to finally be in a program (if I get in). A BA degree will only cost me one more year and then I will be able to enroll for the following year (if I get in). Thanks!
+	What? Your Uni has a BA and a BS in physics. What’s the difference?
+		The BA requires only 20-24credits of core physics classes. The BS requires I think either 28 or 32 credits of physics courses. I think the difference is just that BS is more helpful for someone seeking to pursue a PhD or masters in just Physics but I’m not totally sure. Very torn because I think the BS would make me a more competitive applicant but it would also take another year of my life
+			It definitely wouldn't be worth a whole nother year of tuition I think (unless you have a full ride scholarship). Anything that you need for prerequisites that is outside of the BA you can just take on its own. You'll be fine with a BA (I was).
+	As a medical physicist with a BA in Physics, I do not feel as though it put me at any sort of a competitive disadvantage. Went to grad school of choice, matched with my first choice of residency, etc. Do your due diligence and you should be fine.
+	It shouldn't matter. What does matters is which classes you take. In the US, to enter a CAMPEP-accredited graduate program, you need to have taken a number of prerequisites, including quantum mechanics, electricity and magnetism, among others. Typically coursework equivalent to a minor in physics is appropriate for admission.
+	Shouldn't matter

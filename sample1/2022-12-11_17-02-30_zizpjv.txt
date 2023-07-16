@@ -1,0 +1,150 @@
+Post Title: An Open Letter regarding my dismissal from residency at the University of Iowa
+Post Content: Here I will briefly describe the circumstances regarding my dismissal from residency from the University of Iowa in early 2022. While there is a great deal of context I will omit for brevity, please find attached a link to a letter I sent to Dr. John Antolak, head of CAMPEP, which includes for the interested reader much more detail regarding this incident, my difficulties with the leadership in the medical physics program at UIowa, as well as supporting documents.
+
+My background is in MRI, and after obtaining my doctorate I spent three years as an engineer at GE and three more as a professor at the University of Iowa in Radiology prior to my residency. Dissatisfied with my career trajectory, I made the swap to therapy to bridge the gap between imaging and therapy physics. I applied for two off-match residencies and was offered the position for both, ultimately accepting UIowa's offer. I say this only to establish that I was likely to have been a very competitive candidate had I entered the match.
+
+One service residents at UIowa perform is the eye plaque service for the treatment of ocular melanoma among other diseases, This involves 12-24 radioactive I-125 seeds of \~3 mCi each, about the size of a grain of rice. These sources are glued to the inside of a gold plaque prior to insertion into the patient's eye cavity. After several days of treatment, the residents disassemble the seeds from the frame. This disassembly is done over an open well using tweezers.
+
+On 28Feb2022, I was the resident performing the disassembly of an eye plaque. After all seeds were removed, I counted them, and noticed that one seed was missing. After fetching the survey meter and 20-30 minutes of searching, I was still unable to locate the seed and I enlisted the help of other physicists and residents. The patient was called to return to the hospital to ensure the seed did not come loose internally, and upper management was notified. Ultimately, several hours later the seed was found visually - it was resting atop our FDG-PET decay storage several feet away from the well, so the survey meter was confounded by this other radioactive source. This search was as close to a "needle-in-a-haystack" situation as can be found in our field.
+
+The plaque disassembly is a delicate process which requires a lot of manual dexterity, and is very accident prone. It is not uncommon that seeds may become dislodged with some velocity, and they may obtain sufficient momentum to become airborne: sometimes lifting out of the well or even over the physicist’s shoulder. I would estimate personally that \~20% of disposals I have performed have resulted in a seed being dislodged in this fashion. This incident was therefore not the first time a seed had been dislodged, and I know from discussions with other resident physicists that I am not the only resident who has done a disassembly where a seed has traveled some distance after being dislodged. Additionally, *a seed has previously become lost in exactly this same manner at the University of Iowa*: this previous matter has been filed with the Iowa Department of Public Health: Bureau of Radiological Health. 
+
+At this point, I made a simple recommendation for a solution, to add a radiation hood to the well and I stated clearly that if this procedural issue was not addressed, it is a certainty that this incident would recur. I never received a response to my recommendation, and to my knowledge, no fix has since been implemented.
+
+A week later, I was dismissed from the program with this incident as a motivating reason. UIowa uses "at-will" employment status (contrary to CAMPEP accreditation standards) and therefore I had no legal recourse to challenge this decision. Medical physics is a small community: having once been dismissed for safety-related reasons, however dubious the reasons, it is now a certainty that I will never practice therapy physics.
+
+On the day of the lost seed incident, I was already aware of what tenuous ground I existed upon. In the context of my personal history of this program repeatedly failing to address clearly stated safety concerns, I suspected strongly that I would be blamed for this lost seed, possibly to my great detriment. There was a moment when I realized that I could simply ignore the missing seed, record it as counted, stored, and go about my day - this would be very unlikely to ever be noticed nor traced back to me and nobody would be the wiser.
+
+Knowing there would likely be significant personal ramifications to reporting the missing seed, I did so anyway because I knew there was a chance, however slight, that a patient could be harmed if the radioactive source was indeed missing inside of him/her. *I did the ethical thing despite the personal consequences, because it was the safest and rightest thing to do, and I think that that is exactly the type of physicist who should be practicing.* Instead, I was dismissed from the program.
+
+For those of you who are considering a match with the University of Iowa, I will leave you with this final thought. What if it had been you in that room, afraid for somebody else's health, but concerned for your own promising career as well? Would you have ignored the missing seed, marked it as counted, and simply went about your day? Then I would suggest that you have no business practicing medical physics. But if you would have done the ethical, safe, and correct thing, as I did, then why on earth would you choose a residency program that will dismiss you for making that choice?
+
+While this open letter is targeting M.S. and Ph.D. students considering entering the match for a medical physics residency in therapy, anyone may feel free to disseminate the letter and links freely.  I encourage you all to pass it on to candidates who may benefit from this perspective.  You may contact me via email: [krugerstan@gmail.com](mailto:krugerstan@gmail.com) if you have any questions.
+
+&#x200B;
+
+Supporting Documentation:
+
+[https://drive.google.com/drive/folders/1AICctoNhijYrghddul-JhEu71PTQ2vA-](https://drive.google.com/drive/folders/1AICctoNhijYrghddul-JhEu71PTQ2vA-)
+Comments: 
+Hi Stan,  
+First, a safety concern of my own: 
+
+* Remove your CV from your google drive link above; generally not a good idea to link your phone numbers/email/ home address to a public forum. Date and place of birth also seems like a bad idea to have on a document that gets passed around easily.
+
+  
+Second, being let go from a residency does not destroy your chances of completing this step towards certification. My friend went through similar struggles: she was dealing with personal matters which drained her focus and made it difficult to keep up with a strenuous residency experience. She was eventually asked to leave the program after repeatedly being unable to pass the didactic portion of the program. She learned from the experience, applied the next year, and eventually graduated from a CAMPEP-accredited program.  
+
+  
+Third, while I agree with a lot of observations already written about your supporting documentation, I'm going to make some assumptions about you/ your experience and maybe you'll tell me if I'm right:
+
+  
+You're an older person who was well established in a previous career. You're used to working autonomously and calling the shots. Going from that to a high-powered trainee position that doesn't command the respect of an PhD engineer is a tough pill to swallow. Coupled w/ varying levels of disorganization and incompetence makes it hard to listen to any of these "qualified physicists" who may or may not treat you like a workhorse and set hoops for you to jump through. You seem like you're struggling with your pride about this situation.
+
+  
+You can recover from this setback; others have done it and so can you. It sounds like you have received the advice on how to access other proper channels to report safety incidents and the quality of the program. But if I were a residency director and linked your future application to this post, I'd save myself some trouble and pass on you. 
+
+  
+Save the advice and delete this post, my dude.
+Could you expand on what you mean by existing on tenuous ground. 
+
+The dismissal on grounds of calling a lost seed and then finding it alone would not be cause.
+	In his supporting document, he outlines that he had been struggling academically and butted heads with his advisor because he disagreed with recommended corrective actions.
+I take personal offense to the fact that you started this 3 page rant with ‘Here I will briefly describe..’
+Just coming to see if this is still up...
+Jan qa
+	I’m still checking too! He just disappeared after making such a public post with all these details. I may have no believed it was real with his sudden absence without all the documents
+	Just coming to do my monthly qa check here. Thanks
+
+Feb qa
+	Bump
+	March monthly QA done. Post still exists. No answer from UI. -Shmall.
+		April QA check - everything is in order
+			Thank you for running qa this month. Hopefully in a year we ll have enough data for a TG report
+	May QA. All same
+		QA reviewed.
+So it looks like June of 2021 was your first written warning about your insufficient progress. The warning included a three step performance improvement plan (PIP). This is a typical first step in the process of firing someone. Were you able to follow through with this plan? It seems that over the next 9 months there were several instances of your performance that raised red flags. From reading the documents you provided, there is plenty of evidence and justification for your termination. You were on very thin ice prior to the seed incident and that was the final nail in the coffin for your residency appointment.
+
+Many of my colleagues are current and former residents in the Iowa program, and none of them expressed the concerns you are claiming exist. 
+
+In my opinion, I think it was very generous of Iowa to keep you on an additional 9 months following the initial letter. Your actions between November and March are just inexcusable and I would not trust you to practice clinical medical physics in a safe and ethical manner.
+You seem to be calling out U of Iowa for some kind of malfeasance but, in actuality, your post and supporting document make you look very bad.
+
+I would highly recommend deleting this post and dropping your crusade.
+
+Sincerely, 
+third party observer medical physicist
+	Going to have to agree here. While the situation you’re in is difficult and the program was unfair in certain ways, making this public will likely hurt you in the long run. I would keep this private and work through it with CAMPEP, AAPM, and lawyers. 
+
+I had some legal issues with a program during a portion of my training. At the time, I wanted to name and shame but I’m really happy I didn’t and just handled things privately and was able to move on from those individuals/program.
+Being released from your residency was not the end of your med phys career, this post was
+I am going to give you some advice as to what I see as an outside observer. 
+
+After reading your attached documents, it appears you were not dismissed solely on the eye plaque situation alone. From what I gather, there were academic struggles as well other safety documentation incidents. 
+
+While I don’t like it, some of the things mentioned are part of residency (60+ hours, occasional butting heads with your supervisor). They do prepare you for some of what you will face in the field, but do not amount to abuse of residents. 
+
+The one thing I fail to see in any documentation. Is acceptance of responsibility for what you are at fault for. Academic performance is not the fault of your advisors and how you handle disagreements is not the fault of others. 
+
+This is a very small field and you are correct that a damaged reputation can hurt your prospects. I think this post and the attitude of arrogance displayed is more damaging to your reputation than a simple dismissal. I think you should remove the post honestly.  Depending on if the university sees this, they might even issue a cease and desist. 
+
+Take this time to reflect on the situation, examine your actions, and think of what could have been done differently. This will serve you far better than petitioning CAMPEP
+	I just want to add that 60+ hours a week is abusive whether or not you are a resident or practicing physicist. Rarely does the pay scale linearly with the hours you end up working at "those" places. More so for a resident due to the learning aspects that are also required. Having all the residents run all the QA after some point is less about teaching and more about cheap labor lol.
+Removal and disposal of seeds should be done in a cleared and contained space for exactly this reason.  I'm surprised to hear your decay storage is so close to your workspace too.  From your description, this does sound like a recipe for disaster (if not here, from a number of other safety missteps!) and residents should never be placed in a situation without sufficient over site where a single mistake can cause patient harm.
+
+With that said, you're still young and definitely wouldn't be blacklisted from the profession.  Especially if you find supportive faculty of UofI to speak on your behalf when applying elsewhere.  Clinical medical physics is a relatively small field, so I strongly encourage you to think carefully on discussing this in an open forum.  By posting here, UofI has every right now to post a rebuttable and air any other "dirty laundry" that may've lead to your dismissal.  A single, isolated event on your record (especially given the circumstances) can be put behind you but if UofI comes back with a laundry list of other, reoccurring issues that may've contributed to this dismissal, it will be much harder to do so.
+
+*To the mods: I encourage you to let the OP choose whether to delete this or not.  It doesn't break any of the subs rules yet.  If discussion devolves into a dog fight, please just lock it.*
+	We’ve already approved the post. This kind of post does not violate our rules.
+	I have no intention of removing this post, and I welcome any rebuttal UIowa could possibly offer.
+
+I will not claim to have been a resident without flaws - I was struggling. But I was not unsafe. As I said much has been left out here for brevity. In the interest of transparency I will again refer the interested reader to the supporting documentation where I tried to provide the full context surrounding my experiences and the dismissal.
+		Ask yourself what you aim to gain by publicizing it so.  Would you want reinstatement at UIowa?  That seems like an unlikely outcome and a toxic one. Some revenge censure of the UIowa program at your personal expense?  Martyrdom it is, then.
+
+If you aimed to seek another residency in the future, your actions here are not likely helpful.  Low profile, elapsed time from the incident, salvaged recommendations from other faculty/staff are likely the most valuable things you can accrue towards continued pursuit of a therapy career in the future.
+		Rather than an edit, I'll comment fresh so that others can downvote if I'm off-base. I'll say it more bluntly that you are harming your reputation and professional future by doubling down like this.  People are clowning you on medphys memes sub. I got a text from a former colleague today to ask if I've seen the juicy drama.  If an application crossed my desk that a candidate (with no associated infamy) was dismissed from a previous residency due to an ill-fit with a mentor and some personal issues at that time, with some personal reflection for going about it anew, I would still give it consideration. Instead, your name is marked in memory as a person not to hire -- therapy, imaging, residency, academic, or otherwise. I can't be alone in that sentiment.  Not due to the struggles you had or the seed incident.  All due to the publicity you are drawing to yourself (and institution, and colleagues seemingly without their full consent to be dragged into it).  I hope you can be well and find a better mental space.  This rash, hasty, very public non-anonymous reaction is a detriment to you and I sincerely hope you can see that in time to save some face to salvage the rest of your career.
+Hi, you should really redact the names of your colleagues from your supporting documents. I’m not sure they’ll have given consent to have their names posted indirectly onto Reddit in this manner…
+	I know, right?  I get the feeling that he doesn't care whether those people want to be in this fight or not but that he wants these colleagues' support in his accusations.
+		Yeah it’s very odd. If I was a colleague who was sympathetic to his situation, I think I’d be somewhat less sympathetic after finding out he’d linked my name to my workplace on Reddit, even if indirectly through Google Drive documents. Even redacting to just initials gives some anonymity, but then he’s posted his CV with address and phone numbers, and his medical number elsewhere, so it doesn’t seem he personally is too bothered about anonymity!
+Your supporting docs are destructive to your reputation. And like you have said, this field is small. If not already, leaving this post up will most definitely ruin any chance of returning to the med phys field, and likely any neighboring field. You have a history of publication and a career to hold onto, don't let your ego take all of that down.
+Bruh what is you doin
+Some other options you have:
+
+Contact the AAPM ethics committee and file a complaint.
+
+Contact the AAPM committee(s) involved in residency education and programs and inform them of what occurred.
+
+Contact your state department of radiation control (if agreement state) or NRC (if not) and inform them you believe you were fired for following proper radiation safety.
+
+If you were truly fired for the reasons you stated above you may always want to find a lawyer. Because you will be missing out on a career worth of medical physics wages and also because this is a big hit to your reputation.
+
+Good luck to you.
+	Thanks for the advice.
+
+I have already contacted CAMPEP to this end, but I will look into following up with AAPM as well.
+
+I have already contacted the state radiation control agency and my last update is that they were investigating.
+
+I did reach out to several lawyers, but due to the 'at-will' nature of the residency I was told that I have no \*legal\* recourse.  At-will in a legal sense means the department doesn't need a reason to fire me.
+		‘At will’ means that they don’t need a reason, but there are still federal laws protecting you from wrongful termination for specific reasons. The employer will say ‘you are at will, we fired you for no reason at all’, but if you can prove that they fired you for a federally protected reason (retaliation, whistle blowing) you may have a case. This is likely difficult to prove. I am not a lawyer.
+
+Edited to add: reviewing your supporting documents it looks like you’ve been provided with reasonable grounds for dismissal.
+		I’m not an attorney, but if there was an employee (or residency) handbook, those documents and the employment offer form part of your “contract” with the employer. Maybe they even had a “contract” that you signed when you started. The vast majority of states have “at-will” employment, but that doesn’t mean they can ignore other parts of the contract that you have with them.
+When I was a resident, I was not supposed to start or perform any procedure without the guidance of a qualified medical physicist. Residents are present to assist, learn, and be ready to perform UNDER supervision before the end of the residency. The faculty member in charge of this should have prevented it and double-checked the work before releasing the patient. 
+
+My advice to delete this post!
+[deleted]
+	Definitely a bad idea to post and put out in the world so publicly but not a HIPPA issue. You can share your own information all you want. HIPPA deals with how providers can and cannot share your information.
+Hey, you most likely get to leave Iowa; this is feature. Dodged a bullet my friend.
+
+All updoots I get are from PHYSICISTS WHO KNOW; all downdoots will be from miserable medical physicists currently from Iowa
+Thank you very much for this! I'll be revoking my application to UIowa unless I hear a satisfactory response. This is abhorrent.
+	Go read his supporting documents. He was failing rotation exams and put no effort into the performance improvement plan that Iowa required of him to do. He then had several patient safety related incidents in the four months prior to his termination. They gave him 9 months to improve his performance and make changes, but he refused and then blamed his supervisors.
+		Yea, that's all well and good. You're correct, appears he may have been struggling and perhaps wasn't up to the residency and perhaps should have taken leave to figure out some ways to deal with the ADHD. Of course, if someone is struggling and it's unlikely they will pass and it's just wasting everyone's time to have them there, then they definitely need to be let go.
+
+My issue is the complete ignoring of his multiple safety recommendations and his being fired for (one of the reasons) having the eye plaque safety issue. Why would this be a good reason to fire him? This had happened before, and no one did anything to improve the process, and then it happened again. Is anyone surprised by this? There's no way that should be allowed to happen. His recommendations of a hood was totally reasonable and it was completely ignored, and the senior physicists should have figured it out the first time it happened, and done something about it. And then he gets fired (one of the listed reasons) because they did nothing? That's total BS.
+
+While my original comment didn't lay out my position at all, those are my reasons.  Personally, I just wouldn't want to be a part of a residency program where my requests for safety measures are ignored. They may be wrong, or turned down for good reasons, but ignoring them is unhelpful, and not a culture I want to learn from.
+
+My request for a satisfactory response is more about: Is there a hood now? If not, why not? And were his requests actually ignored? Or is he just making it look that way. I think these are pretty fair questions for an interview given this dramatic post.
+	And....you should be lawyering up instead of doing this.

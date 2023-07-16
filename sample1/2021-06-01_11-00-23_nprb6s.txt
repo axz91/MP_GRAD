@@ -1,0 +1,71 @@
+Post Title: [Training Tuesday] - Weekly thread for questions about grad school, residency, and general career topics 06/01/2021
+Post Content: This is the place to ask questions about graduate school, training programs, or general basic career topics. If you are just learning about the field and want to know if it is something you should explore, this thread is probably the correct place for those first few questions on your mind.
+
+Examples: 
+
+* "I majored in Surf Science and Technology in undergrad, is Medical Physics right for me?"
+* "I can't decide between Biomedical Engineering and Medical Physics..."
+* "Do Medical Physicists get free CT scans for life?"
+* "Masters vs. PhD"
+* "How do I prepare for Residency interviews?"
+Comments: 
+I am wondering if it's possible one can go for a CAMPEP accredited PhD programme in the USA or Canada after getting a non-CAMPEP accredited MSc from another country.
+	100% yes in the US
+	What’s important to understand about the whole CAMPEP path is that it’s the courses that make the certification, not the program status itself. Going through a “CAMPEP PhD program” means nothing if you don’t also take the CAMPEP courses from the program. At my program, the core CAMPEP courses constitute ~75% of the credits needed for the MS. 
+
+So, the answer I think you’re looking for is that you will need to retake all of your medical physics courses from a CAMPEP program for it to count. I don’t believe you can get around it.
+		I do understand that.
+But what I don't understand is if I can get accepted into the PhD without a CAMPEP accredited MSc.
+And would I take the necessary courses in the PhD?
+Because I was considering going for a CAMPEP MSc instead of a CAMPEP PhD.
+			I think you will need to take the courses necessary to pass the qualifying exam to be a PhD student. I don’t think you can be accepted as a PhD student right off the bat.
+ 
+I know someone who got their MS from a CAMPEP program, transferred to a different CAMPEP program for their PhD, and still had to take most of that programs courses in order to sit for the qualifying exam.
+				Wait. Why?😂😂😂
+					I honestly never got the full story, but I know the MS program they came from is highly regarded in the field.
+ 
+I think it had to do with not wanting to set a precedent where students could just transfer to a more prestigious program (with more funding) to get their PhD without taking the courses that make students from that program have the status in the field that they have. I won’t say I necessarily agree with that stance, but I can see why they’d make it.
+						Hmmm. I see
+So does this mean it's more reasonable for someone like me to go for the MSc first, then the PhD?
+							For me personally, if I have to do 75% of a MS to get to the PhD, I might as well take the MS on the way.
+ 
+Honestly, you’ve just got to talk to the program coordinator at this point to figure out what the deal is. I think you’re going to have to take the 20+ credits of core CAMPEP courses no matter what program or path you end up in.
+I’m within a year and a half of finishing my Nuclear Engineering degree at UTK, and I honestly don’t know where to start (as awful as that sounds) in order to get to where I wanna go. What steps should I take in order to become a medical physicist? I know it’s very broad but I need some help to point me in the right direction!!
+What are some of the highest residency placement rates for masters programs? The CAMPEP data I’ve been looking at for months has been from 2018 and I’d really like to see if it’s changed in the last 2.5 years
+	Placement statistics are required to be publicly posted on the programs website. It will take some time, but go to each programs website and check the statistics for the last several years. Probably would be easiest to keep a spreadsheet to track and calculate the data for you.
+I'm \[34F\] making a career change and I came across Medical Physics.  I have a Bachelor's in Mechanical Engineering (GPA 3.67) and have spent the last 10 years of my life working as a nuclear operator. I obtained my senior reactor operating license from the USNRC in 2014 and then the company board decided to decommission the plant in 2016. I've been supporting the decommissioning but I need to start thinking about the next phase of my life. I know I want to move into healthcare because the industry is more stable than nuclear power and I want to be able to make a difference in someone's life rather than help increase a corporation's profit margin.
+
+I've just finished with general pre-health prerequisites (GPA 3.96). I'm currently studying for the GRE and I was planning to learn Python after that. I'm also volunteering with the American Red Cross. 
+
+I was really set on Medical Physics until I looked at the local residency program. Last year they had 90 applicants and only admitted 1. Assuming I get into and successfully complete the Master's program, how to I make myself stand out against 89+ other applicants? Are there other jobs out there if you can't get a residency?
+	It's very wise that you're thinking about this. Your background already makes you stand out, but the fact is that it's very competitive and if you're limited geographically you'll have to be a real rockstar.
+
+The paths are slightly different for therapy physics, imaging physics, and nuclear medicine physics so it's worth trying to understand which you're interested in and what that means for you.
+
+There are related fields you can pivot to-- certainly the related medical industries are an option-- but I can't speak for how much the master's degree contributes towards picking those up.
+		Thanks! I really like to plan things out before I dive headfirst.
+	I'd also encourage you to look into health physics; you'd be a great candidate and less barriers to entry. You can also do medical health physics so you're still in a health care setting. Of course though, they perform very different jobs but I'm just throwing that out there as an option.
+		I'll look into it! Thanks!
+I am on my first year of residency and I want to know the prospects of automation on radiotherapy and tps, are we going do be left on the street?
+	I dont see myself losing my job because of automation. Automation just enables you to focus on more important tasks. And then you qa the automation
+	What types of automation are you seeing in your clinic that concern you? 
+
+I work with several types of automation in my clinic. There is always something new that comes up when time is freed up elsewhere. I think you will find even good automated services require QA and regular verification. They also let us focus more time and energy on higher priority work.
+What do masters or PhD programs typically look for in an undergrad applicant? Like what GPA is the minimum, does research matter, how much does shadowing matter and if so how many hours? And does GRE matter ?
+	I think the GPA minimum will be specific to the school and in general, programs are looking for well-rounded applicants who show interest in medical physics. Research related to medical physics and/or shadowing are certainly pluses since they demonstrate interest. A lot of universities don't have medical physics research but they might have imaging or biomedical engineering research that can give you a better idea of what you're getting into. As far as I know, most programs don't require the physics GRE and the overall GRE is evaluated basically the same as your GPA - it's one piece of a larger picture of your resume/CV.
+		I'll just add that many grad program websites list the minimum requirements or average statistics of their average accepted applicant. For example, UW-Madison's stats can be found in their FAQ link on their admissions page.
+I am starting my last year of residency and wondering when it is appropriate to start seriously applying for jobs? I know what area I would like to end up in geographically post-residency and I want to be very proactive to increase the chances of winding up there
+	December. (If you are on conventional schedule when residency starts in July)
+first year student currently on clinical placement in the UK. I don't see myself living/working in this country for more than a year or two after qualifying as the NHS pay just isn't good enough and I just don't want to stay in England! which countries should I be looking at for my future career... it seems Canada, Australia and certain US states such as California look best, but how difficult would it be to transfer, and would it be worth it?
+	Worth noting that the vast majority of clinical positions in the US and Canada will require certification that is not easy to get from international qualifications. Unless you are willing to consider coming over as a postdoc and completing a CAMPEP certificate program plus a residency, you will not be considered qualified for most clinical jobs. In essence you have to backtrack and redo some of your education and training just to qualify for these credentialing exams.
+
+See campep.org for the list of accredited programs and theabr.org for information on professional certification. I am not aware of routes readily available for international qualification conversion/acknowledgement, but that doesn't mean no one has ever done it.
+		thank you!
+	You can look more into the CAMPEP process but in all likelihood you’re at least 4 years away from a clinical job the US.
+	I won't speak to how hard the transfer will be, but career wise basically every state in the US is the same. If you actually want to live in those states is a different question, but I just wanted to clarify that no state has a built in career advantage.
+I'm currently a grade 12 student planning to study medical physics at Ryerson. Are there any straightforward career pathways in this field? If so what steps would I have to take?  
+  
+I'm not sure if this degree is in demand so I'm just worried about securing a job in the future.
+	Honestly, there isn't really anything in this field that warrants you hitching your cart so specifically to a medical physics degree at this early stage of your education/career. you effectively need a PhD to get a residency (in Canada), so grad school is when you can decide to specialize in medical physics.
+
+If you like physics, take a physics or engineering physics degree and you'll have more options open.

@@ -1,0 +1,38 @@
+Post Title: Diagnostic Imaging Hours
+Post Content: In-house physicist covering Rad Safety, Nuc-Med, and Diagnostic Imaging.  Recently an admin has been digging in their heels wanting all physics testing to be performed after-hours overnight or on weekends due to "patient experience" and all emergency testing to be performed immediately.  Scheduling routine testing has never been an issue in the past but this admin is no longer allowing it.
+
+
+Are many of you out there performing most/all testing after-hours on diagnostic equipment when the facility is not in use?
+Comments: 
+98% of my work is done during normal business hours. Occasionally I work early mornings ~6am. The hospital can spare a couple hours per year per room. If they don’t want to, then they can pay you after hours/weekend rates.
+As long as you aren’t shutting down a modality, testing has always been performed during normal business hours. I was an RSO and the physicist came on site and did two half days to get 3 gamma cameras and one SPECT/CT done. We rearranged the schedule and made it work. No reason to do after hours unless it’s the only scanner they have
+	The system I work for has many locations and the smaller hospitals and small offices often have 1 piece of major equipment each (CT, MR, Mammo).  Combine those units with ED units, OR units, and interventional units already being tested in early morning hours (completed by 7am because it's unpredictable when equipment is available late in the day), I am left wondering where the line should be.
+Couple things:
+
+Admin suck.
+
+We can almost always get rooms starting in the afternoon. Our discretion whether to stay really late and finish in one day or leave slightly later and do it over 2 nights.
+
+Admin suck.
+
+There are some we just can't get except crack of dawn, after hours (starting at 5 to 6pm sometimes) or weekends. The reasons range from legimately too busy (ED) to grouchy dept heads.
+
+Sounds like an admin is trying to get kuddo points for "increased reimbursement by X through innovative strategies" on their performance report.
+	Also, couple more things.
+
+If I'm starting a survey at 5 and going until 9, you won't see me until noon that day or the next. If I'm at the clinic on Sunday morning for 4 hours, you won't find me after 12 on the next Friday.
+
+Be careful though. I've seen position descriptions explicitly state nights and weekends so you might be SOL if you try to take back comp time in that way.
+	But where do you stand on admins?
+		I'm not a fan
+Staff physicist here as well.  With a few exceptions (mainly interventional and cath labs which normally get scheduled for early mornings), I'm able to schedule the equipment testing during regular business hours.  Even the busiest outpatient clinics I cover that have just one of each type of unit are able/willing to find slow clinic times when docs aren't around and block off a few hours me to do the testing.
+
+I'd definitely push back on this.
+3 Linac Center here - we get no time for QA on clinical hours. Evening or Weekends only, but our hours are tracked for time off when we want.
+
+Our engineers gets each machine at 10 AM once a quarter for preventative maintenance.
+This is a little strange. From my year or so of experience, most testing can be done 9-5, with exceptions for very busy modalities like MRI or therapy OBIs. Patient experience excuse doesn’t really hold for me, most patients don’t know what you’re doing or are too sick to care. We tend to avoid off hours testing also for the reason if something goes wrong we need someone to be nearby or available, as well as some inspections being dependent on the clinic’s operations according to those working there.
+Depends on the size of the facility. A hospital with one CT it’s easier to come in at odd hours.
+I’m in house covering diagnostic and nuc med at a level 1 trauma center with 600+ beds. I would say 98% of my testing is done between 8-5. Sometimes cathlabs are done in the evening. It definitely helps to have good relationships with lead techs and charge nurses that can let you know when there are gaps in the schedule or when rooms are done for the day. I rarely schedule “downtime” for units, but try to work testing in around the clinical schedule.
+I'm not in-house, but I test all diagnostic modalities during business hours. I'll start a test after 4 about a few times a year. Those test would be in cath labs or mri.
+Prefacing this to say I work in the UK, but generally most of our physics testing on diagnostic imaging equipment is carried out during 9-5 hours. The only exception to this is the equipment used in emergencies, so cath labs/some CTs, which we test on public holidays when there’s no routine work and emergency cases could be carried out on a different unit (or we work around emergency cases). Sometimes start at 6/7am for new x-ray tube installations to avoid patients having to be cancelled last minute too.
